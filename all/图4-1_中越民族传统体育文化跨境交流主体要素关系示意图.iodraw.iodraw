@@ -1,11 +1,11 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36 Edg/144.0.0.0" version="24.7.17">
   <diagram name="主体要素关系示意图" id="subject-elements-diagram">
-    <mxGraphModel dx="1187" dy="791" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1187" dy="791" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="title" value="中越民族传统体育文化跨境交流主体要素关系示意图" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=1;fontColor=#333333;" parent="1" vertex="1">
-          <mxGeometry x="284" y="20" width="600" height="30" as="geometry" />
+          <mxGeometry x="184" y="20" width="600" height="30" as="geometry" />
         </mxCell>
         <mxCell id="gov-layer-bg" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="40" y="70" width="860" height="140" as="geometry" />
