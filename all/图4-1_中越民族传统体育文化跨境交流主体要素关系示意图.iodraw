@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36 Edg/144.0.0.0" version="24.7.17">
   <diagram name="主体要素关系示意图" id="subject-elements-diagram">
-    <mxGraphModel dx="970" dy="791" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1187" dy="791" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -13,7 +13,7 @@
         <mxCell id="legend-title" value="治理主体之间的&#xa;互动关系图" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="960" y="90" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="legend-arrow1" value="" style="endArrow=classic;html=1;strokeColor=#2196F3;strokeWidth=2;" parent="1" edge="1">
+        <mxCell id="legend-arrow1" value="" style="endArrow=classic;html=1;strokeWidth=2;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="940" y="150" as="sourcePoint" />
             <mxPoint x="990" y="150" as="targetPoint" />
@@ -22,7 +22,7 @@
         <mxCell id="legend-text1" value="引导层" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="1000" y="140" width="60" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="legend-arrow2" value="" style="endArrow=classic;html=1;strokeColor=#4CAF50;strokeWidth=2;" parent="1" edge="1">
+        <mxCell id="legend-arrow2" value="" style="endArrow=classic;html=1;strokeWidth=2;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="940" y="180" as="sourcePoint" />
             <mxPoint x="990" y="180" as="targetPoint" />
@@ -31,7 +31,7 @@
         <mxCell id="legend-text2" value="协同层" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="1000" y="170" width="60" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="legend-arrow3" value="" style="endArrow=classic;html=1;strokeColor=#FF9800;strokeWidth=2;" parent="1" edge="1">
+        <mxCell id="legend-arrow3" value="" style="endArrow=classic;html=1;strokeWidth=2;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="940" y="210" as="sourcePoint" />
             <mxPoint x="990" y="210" as="targetPoint" />
@@ -40,7 +40,7 @@
         <mxCell id="legend-text3" value="执行层" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="1000" y="200" width="60" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="legend-arrow4" value="" style="endArrow=classic;startArrow=classic;html=1;strokeColor=#9C27B0;strokeWidth=2;" parent="1" edge="1">
+        <mxCell id="legend-arrow4" value="" style="endArrow=classic;startArrow=classic;html=1;strokeWidth=2;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="940" y="240" as="sourcePoint" />
             <mxPoint x="990" y="240" as="targetPoint" />
@@ -49,247 +49,247 @@
         <mxCell id="legend-text4" value="跨境合作" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="1000" y="230" width="60" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="gov-layer-bg" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E3F2FD;strokeColor=#1976D2;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="gov-layer-bg" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="40" y="70" width="860" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="gov-layer-label" value="政府主体（引导层）" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontStyle=1;fontColor=#1976D2;" parent="1" vertex="1">
+        <mxCell id="gov-layer-label" value="政府主体（引导层）" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="50" y="75" width="150" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="china-gov-box" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#BBDEFB;strokeColor=#1976D2;" parent="1" vertex="1">
+        <mxCell id="china-gov-box" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="60" y="105" width="380" height="95" as="geometry" />
         </mxCell>
-        <mxCell id="china-gov-label" value="中方政府" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontStyle=1;fontColor=#1565C0;" parent="1" vertex="1">
+        <mxCell id="china-gov-label" value="中方政府" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="210" y="108" width="80" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="national" value="国家层面&#xa;（体育总局群体司）" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#2196F3;strokeColor=#1565C0;fontColor=#ffffff;fontSize=10;" parent="1" vertex="1">
+        <mxCell id="national" value="国家层面&#xa;（体育总局群体司）" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="70" y="130" width="85" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="provincial" value="省级层面&#xa;（云南省体育局）" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#42A5F5;strokeColor=#1976D2;fontColor=#ffffff;fontSize=10;" parent="1" vertex="1">
+        <mxCell id="provincial" value="省级层面&#xa;（云南省体育局）" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="165" y="130" width="85" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="prefecture" value="州市层面&#xa;（文山州政府）" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#64B5F6;strokeColor=#1E88E5;fontColor=#ffffff;fontSize=10;" parent="1" vertex="1">
+        <mxCell id="prefecture" value="州市层面&#xa;（文山州政府）" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="260" y="130" width="85" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="county" value="县区层面&#xa;（马关县政府）" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#90CAF9;strokeColor=#42A5F5;fontColor=#1565C0;fontSize=10;" parent="1" vertex="1">
+        <mxCell id="county" value="县区层面&#xa;（马关县政府）" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="355" y="130" width="75" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="vietnam-gov-box" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#BBDEFB;strokeColor=#1976D2;" parent="1" vertex="1">
+        <mxCell id="vietnam-gov-box" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="500" y="105" width="390" height="95" as="geometry" />
         </mxCell>
-        <mxCell id="vietnam-gov-label" value="越方政府" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontStyle=1;fontColor=#1565C0;" parent="1" vertex="1">
+        <mxCell id="vietnam-gov-label" value="越方政府" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="655" y="108" width="80" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="vn-central" value="中央层面&#xa;（文体旅游部）" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#2196F3;strokeColor=#1565C0;fontColor=#ffffff;fontSize=10;" parent="1" vertex="1">
+        <mxCell id="vn-central" value="中央层面&#xa;（文体旅游部）" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="510" y="130" width="85" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="vn-province" value="省级层面&#xa;（河江省文体旅游厅）" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#42A5F5;strokeColor=#1976D2;fontColor=#ffffff;fontSize=10;" parent="1" vertex="1">
+        <mxCell id="vn-province" value="省级层面&#xa;（河江省文体旅游厅）" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="605" y="130" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="vn-district" value="县级层面&#xa;（边境县市）" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#64B5F6;strokeColor=#1E88E5;fontColor=#ffffff;fontSize=10;" parent="1" vertex="1">
+        <mxCell id="vn-district" value="县级层面&#xa;（边境县市）" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="715" y="130" width="85" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="vn-commune" value="乡镇层面&#xa;（边境乡镇）" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#90CAF9;strokeColor=#42A5F5;fontColor=#1565C0;fontSize=10;" parent="1" vertex="1">
+        <mxCell id="vn-commune" value="乡镇层面&#xa;（边境乡镇）" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="810" y="130" width="70" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="arrow-national-provincial" value="" style="endArrow=classic;html=1;strokeColor=#2196F3;strokeWidth=2;" parent="1" edge="1">
+        <mxCell id="arrow-national-provincial" value="" style="endArrow=classic;html=1;strokeWidth=2;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="155" y="160" as="sourcePoint" />
             <mxPoint x="165" y="160" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="arrow-provincial-prefecture" value="" style="endArrow=classic;html=1;strokeColor=#2196F3;strokeWidth=2;" parent="1" edge="1">
+        <mxCell id="arrow-provincial-prefecture" value="" style="endArrow=classic;html=1;strokeWidth=2;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="250" y="160" as="sourcePoint" />
             <mxPoint x="260" y="160" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="arrow-prefecture-county" value="" style="endArrow=classic;html=1;strokeColor=#2196F3;strokeWidth=2;" parent="1" edge="1">
+        <mxCell id="arrow-prefecture-county" value="" style="endArrow=classic;html=1;strokeWidth=2;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="345" y="160" as="sourcePoint" />
             <mxPoint x="355" y="160" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="cross-border-gov" value="跨境协调" style="endArrow=classic;startArrow=classic;html=1;strokeColor=#9C27B0;strokeWidth=3;dashed=1;dashPattern=8 8;" parent="1" edge="1">
+        <mxCell id="cross-border-gov" value="跨境协调" style="endArrow=classic;startArrow=classic;html=1;strokeWidth=3;dashed=1;dashPattern=8 8;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="440" y="155" as="sourcePoint" />
             <mxPoint x="500" y="155" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="org-layer-bg" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E8F5E9;strokeColor=#388E3C;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="org-layer-bg" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="40" y="230" width="860" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="org-layer-label" value="社会组织主体（协同层）" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontStyle=1;fontColor=#388E3C;" parent="1" vertex="1">
+        <mxCell id="org-layer-label" value="社会组织主体（协同层）" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="50" y="235" width="180" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="china-org-box" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#C8E6C9;strokeColor=#388E3C;" parent="1" vertex="1">
+        <mxCell id="china-org-box" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="60" y="265" width="380" height="85" as="geometry" />
         </mxCell>
-        <mxCell id="china-org-label" value="中方社会组织" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontStyle=1;fontColor=#2E7D32;" parent="1" vertex="1">
+        <mxCell id="china-org-label" value="中方社会组织" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="200" y="268" width="100" height="18" as="geometry" />
         </mxCell>
-        <mxCell id="sports-assoc" value="体育协会&#xa;（棋类协会等）" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#4CAF50;strokeColor=#388E3C;fontColor=#ffffff;fontSize=10;" parent="1" vertex="1">
+        <mxCell id="sports-assoc" value="体育协会&#xa;（棋类协会等）" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="70" y="290" width="90" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="academic" value="学术机构&#xa;（高校/研究所）" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#66BB6A;strokeColor=#43A047;fontColor=#ffffff;fontSize=10;" parent="1" vertex="1">
+        <mxCell id="academic" value="学术机构&#xa;（高校/研究所）" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="170" y="290" width="90" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="enterprise" value="企业组织&#xa;（体育/文旅企业）" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#81C784;strokeColor=#66BB6A;fontColor=#ffffff;fontSize=10;" parent="1" vertex="1">
+        <mxCell id="enterprise" value="企业组织&#xa;（体育/文旅企业）" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="270" y="290" width="90" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="cultural-org" value="文化团体&#xa;（非遗保护中心）" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#A5D6A7;strokeColor=#81C784;fontColor=#2E7D32;fontSize=10;" parent="1" vertex="1">
+        <mxCell id="cultural-org" value="文化团体&#xa;（非遗保护中心）" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="370" y="290" width="60" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="vietnam-org-box" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#C8E6C9;strokeColor=#388E3C;" parent="1" vertex="1">
+        <mxCell id="vietnam-org-box" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="500" y="265" width="390" height="85" as="geometry" />
         </mxCell>
-        <mxCell id="vietnam-org-label" value="越方社会组织" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontStyle=1;fontColor=#2E7D32;" parent="1" vertex="1">
+        <mxCell id="vietnam-org-label" value="越方社会组织" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="645" y="268" width="100" height="18" as="geometry" />
         </mxCell>
-        <mxCell id="vn-sports-assoc" value="体育协会&#xa;（各级体协）" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#4CAF50;strokeColor=#388E3C;fontColor=#ffffff;fontSize=10;" parent="1" vertex="1">
+        <mxCell id="vn-sports-assoc" value="体育协会&#xa;（各级体协）" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="510" y="290" width="90" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="vn-academic" value="学术机构&#xa;（大学/研究院）" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#66BB6A;strokeColor=#43A047;fontColor=#ffffff;fontSize=10;" parent="1" vertex="1">
+        <mxCell id="vn-academic" value="学术机构&#xa;（大学/研究院）" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="610" y="290" width="90" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="vn-enterprise" value="企业组织&#xa;（旅游企业）" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#81C784;strokeColor=#66BB6A;fontColor=#ffffff;fontSize=10;" parent="1" vertex="1">
+        <mxCell id="vn-enterprise" value="企业组织&#xa;（旅游企业）" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="710" y="290" width="90" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="vn-cultural" value="文化团体&#xa;（民间艺术团）" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#A5D6A7;strokeColor=#81C784;fontColor=#2E7D32;fontSize=10;" parent="1" vertex="1">
+        <mxCell id="vn-cultural" value="文化团体&#xa;（民间艺术团）" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="810" y="290" width="70" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="cross-border-org" value="专业合作" style="endArrow=classic;startArrow=classic;html=1;strokeColor=#9C27B0;strokeWidth=3;dashed=1;dashPattern=8 8;" parent="1" edge="1">
+        <mxCell id="cross-border-org" value="专业合作" style="endArrow=classic;startArrow=classic;html=1;strokeWidth=3;dashed=1;dashPattern=8 8;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="440" y="315" as="sourcePoint" />
             <mxPoint x="500" y="315" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="community-layer-bg" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF3E0;strokeColor=#F57C00;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="community-layer-bg" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="40" y="380" width="860" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="community-layer-label" value="社区主体（参与层）" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontStyle=1;fontColor=#F57C00;" parent="1" vertex="1">
+        <mxCell id="community-layer-label" value="社区主体（参与层）" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="50" y="385" width="150" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="china-community-box" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFE0B2;strokeColor=#F57C00;" parent="1" vertex="1">
+        <mxCell id="china-community-box" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="60" y="415" width="380" height="75" as="geometry" />
         </mxCell>
-        <mxCell id="china-community-label" value="中方边境社区" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontStyle=1;fontColor=#E65100;" parent="1" vertex="1">
+        <mxCell id="china-community-label" value="中方边境社区" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="200" y="418" width="100" height="18" as="geometry" />
         </mxCell>
-        <mxCell id="border-village-cn" value="边境村寨&#xa;（麻栗坡/马关/富宁）" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF9800;strokeColor=#F57C00;fontColor=#ffffff;fontSize=10;" parent="1" vertex="1">
+        <mxCell id="border-village-cn" value="边境村寨&#xa;（麻栗坡/马关/富宁）" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="70" y="440" width="110" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="ethnic-community-cn" value="跨境民族聚居区&#xa;（壮/苗/瑶族社区）" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFB74D;strokeColor=#FF9800;fontColor=#ffffff;fontSize=10;" parent="1" vertex="1">
+        <mxCell id="ethnic-community-cn" value="跨境民族聚居区&#xa;（壮/苗/瑶族社区）" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="190" y="440" width="120" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="cultural-space-cn" value="文化传承场所&#xa;（传习所/活动中心）" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFCC80;strokeColor=#FFB74D;fontColor=#E65100;fontSize=10;" parent="1" vertex="1">
+        <mxCell id="cultural-space-cn" value="文化传承场所&#xa;（传习所/活动中心）" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="320" y="440" width="110" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="vietnam-community-box" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFE0B2;strokeColor=#F57C00;" parent="1" vertex="1">
+        <mxCell id="vietnam-community-box" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="500" y="415" width="390" height="75" as="geometry" />
         </mxCell>
-        <mxCell id="vietnam-community-label" value="越方边境社区" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontStyle=1;fontColor=#E65100;" parent="1" vertex="1">
+        <mxCell id="vietnam-community-label" value="越方边境社区" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="645" y="418" width="100" height="18" as="geometry" />
         </mxCell>
-        <mxCell id="border-village-vn" value="边境村社&#xa;（河江省边境乡）" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF9800;strokeColor=#F57C00;fontColor=#ffffff;fontSize=10;" parent="1" vertex="1">
+        <mxCell id="border-village-vn" value="边境村社&#xa;（河江省边境乡）" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="510" y="440" width="110" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="ethnic-community-vn" value="跨境民族聚居区&#xa;（侬/岱/苗族社区）" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFB74D;strokeColor=#FF9800;fontColor=#ffffff;fontSize=10;" parent="1" vertex="1">
+        <mxCell id="ethnic-community-vn" value="跨境民族聚居区&#xa;（侬/岱/苗族社区）" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="630" y="440" width="120" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="cultural-space-vn" value="文化传承场所&#xa;（民俗活动场地）" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFCC80;strokeColor=#FFB74D;fontColor=#E65100;fontSize=10;" parent="1" vertex="1">
+        <mxCell id="cultural-space-vn" value="文化传承场所&#xa;（民俗活动场地）" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="760" y="440" width="120" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="cross-border-community" value="民间交流" style="endArrow=classic;startArrow=classic;html=1;strokeColor=#9C27B0;strokeWidth=3;dashed=1;dashPattern=8 8;" parent="1" edge="1">
+        <mxCell id="cross-border-community" value="民间交流" style="endArrow=classic;startArrow=classic;html=1;strokeWidth=3;dashed=1;dashPattern=8 8;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="440" y="462" as="sourcePoint" />
             <mxPoint x="500" y="462" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="individual-layer-bg" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F3E5F5;strokeColor=#7B1FA2;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="individual-layer-bg" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="40" y="520" width="860" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="individual-layer-label" value="个体参与者（能动层）" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontStyle=1;fontColor=#7B1FA2;" parent="1" vertex="1">
+        <mxCell id="individual-layer-label" value="个体参与者（能动层）" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="50" y="525" width="160" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="china-individual-box" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E1BEE7;strokeColor=#7B1FA2;" parent="1" vertex="1">
+        <mxCell id="china-individual-box" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="60" y="555" width="380" height="65" as="geometry" />
         </mxCell>
-        <mxCell id="china-individual-label" value="中方参与者" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontStyle=1;fontColor=#6A1B9A;" parent="1" vertex="1">
+        <mxCell id="china-individual-label" value="中方参与者" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="205" y="557" width="90" height="18" as="geometry" />
         </mxCell>
-        <mxCell id="inheritor-cn" value="传承人" style="ellipse;whiteSpace=wrap;html=1;fillColor=#9C27B0;strokeColor=#7B1FA2;fontColor=#ffffff;fontSize=10;" parent="1" vertex="1">
+        <mxCell id="inheritor-cn" value="传承人" style="ellipse;whiteSpace=wrap;html=1;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="75" y="578" width="60" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="athlete-cn" value="运动员" style="ellipse;whiteSpace=wrap;html=1;fillColor=#AB47BC;strokeColor=#8E24AA;fontColor=#ffffff;fontSize=10;" parent="1" vertex="1">
+        <mxCell id="athlete-cn" value="运动员" style="ellipse;whiteSpace=wrap;html=1;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="145" y="578" width="60" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="coach-cn" value="教练员" style="ellipse;whiteSpace=wrap;html=1;fillColor=#BA68C8;strokeColor=#AB47BC;fontColor=#ffffff;fontSize=10;" parent="1" vertex="1">
+        <mxCell id="coach-cn" value="教练员" style="ellipse;whiteSpace=wrap;html=1;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="215" y="578" width="60" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="referee-cn" value="裁判员" style="ellipse;whiteSpace=wrap;html=1;fillColor=#CE93D8;strokeColor=#BA68C8;fontColor=#6A1B9A;fontSize=10;" parent="1" vertex="1">
+        <mxCell id="referee-cn" value="裁判员" style="ellipse;whiteSpace=wrap;html=1;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="285" y="578" width="60" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="public-cn" value="民众" style="ellipse;whiteSpace=wrap;html=1;fillColor=#E1BEE7;strokeColor=#CE93D8;fontColor=#6A1B9A;fontSize=10;" parent="1" vertex="1">
+        <mxCell id="public-cn" value="民众" style="ellipse;whiteSpace=wrap;html=1;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="355" y="578" width="60" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="vietnam-individual-box" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E1BEE7;strokeColor=#7B1FA2;" parent="1" vertex="1">
+        <mxCell id="vietnam-individual-box" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="500" y="555" width="390" height="65" as="geometry" />
         </mxCell>
-        <mxCell id="vietnam-individual-label" value="越方参与者" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontStyle=1;fontColor=#6A1B9A;" parent="1" vertex="1">
+        <mxCell id="vietnam-individual-label" value="越方参与者" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="650" y="557" width="90" height="18" as="geometry" />
         </mxCell>
-        <mxCell id="inheritor-vn" value="传承人" style="ellipse;whiteSpace=wrap;html=1;fillColor=#9C27B0;strokeColor=#7B1FA2;fontColor=#ffffff;fontSize=10;" parent="1" vertex="1">
+        <mxCell id="inheritor-vn" value="传承人" style="ellipse;whiteSpace=wrap;html=1;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="515" y="578" width="60" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="athlete-vn" value="运动员" style="ellipse;whiteSpace=wrap;html=1;fillColor=#AB47BC;strokeColor=#8E24AA;fontColor=#ffffff;fontSize=10;" parent="1" vertex="1">
+        <mxCell id="athlete-vn" value="运动员" style="ellipse;whiteSpace=wrap;html=1;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="585" y="578" width="60" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="coach-vn" value="教练员" style="ellipse;whiteSpace=wrap;html=1;fillColor=#BA68C8;strokeColor=#AB47BC;fontColor=#ffffff;fontSize=10;" parent="1" vertex="1">
+        <mxCell id="coach-vn" value="教练员" style="ellipse;whiteSpace=wrap;html=1;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="655" y="578" width="60" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="referee-vn" value="裁判员" style="ellipse;whiteSpace=wrap;html=1;fillColor=#CE93D8;strokeColor=#BA68C8;fontColor=#6A1B9A;fontSize=10;" parent="1" vertex="1">
+        <mxCell id="referee-vn" value="裁判员" style="ellipse;whiteSpace=wrap;html=1;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="725" y="578" width="60" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="public-vn" value="民众" style="ellipse;whiteSpace=wrap;html=1;fillColor=#E1BEE7;strokeColor=#CE93D8;fontColor=#6A1B9A;fontSize=10;" parent="1" vertex="1">
+        <mxCell id="public-vn" value="民众" style="ellipse;whiteSpace=wrap;html=1;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="795" y="578" width="60" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="cross-border-individual" value="个体互动" style="endArrow=classic;startArrow=classic;html=1;strokeColor=#9C27B0;strokeWidth=3;dashed=1;dashPattern=8 8;" parent="1" edge="1">
+        <mxCell id="cross-border-individual" value="个体互动" style="endArrow=classic;startArrow=classic;html=1;strokeWidth=3;dashed=1;dashPattern=8 8;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="440" y="595" as="sourcePoint" />
             <mxPoint x="500" y="595" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vertical-arrow-1" value="" style="endArrow=classic;html=1;strokeColor=#2196F3;strokeWidth=2;" parent="1" edge="1">
+        <mxCell id="vertical-arrow-1" value="" style="endArrow=classic;html=1;strokeWidth=2;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="250" y="200" as="sourcePoint" />
             <mxPoint x="250" y="230" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vertical-arrow-2" value="" style="endArrow=classic;html=1;strokeColor=#4CAF50;strokeWidth=2;" parent="1" edge="1">
+        <mxCell id="vertical-arrow-2" value="" style="endArrow=classic;html=1;strokeWidth=2;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="250" y="350" as="sourcePoint" />
             <mxPoint x="250" y="380" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vertical-arrow-3" value="" style="endArrow=classic;html=1;strokeColor=#FF9800;strokeWidth=2;" parent="1" edge="1">
+        <mxCell id="vertical-arrow-3" value="" style="endArrow=classic;html=1;strokeWidth=2;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="250" y="490" as="sourcePoint" />
             <mxPoint x="250" y="520" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vertical-arrow-4" value="" style="endArrow=classic;html=1;strokeColor=#2196F3;strokeWidth=2;" parent="1" edge="1">
+        <mxCell id="vertical-arrow-4" value="" style="endArrow=classic;html=1;strokeWidth=2;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="695" y="200" as="sourcePoint" />
             <mxPoint x="695" y="230" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vertical-arrow-5" value="" style="endArrow=classic;html=1;strokeColor=#4CAF50;strokeWidth=2;" parent="1" edge="1">
+        <mxCell id="vertical-arrow-5" value="" style="endArrow=classic;html=1;strokeWidth=2;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="695" y="350" as="sourcePoint" />
             <mxPoint x="695" y="380" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vertical-arrow-6" value="" style="endArrow=classic;html=1;strokeColor=#FF9800;strokeWidth=2;" parent="1" edge="1">
+        <mxCell id="vertical-arrow-6" value="" style="endArrow=classic;html=1;strokeWidth=2;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="695" y="490" as="sourcePoint" />
             <mxPoint x="695" y="520" as="targetPoint" />
@@ -298,16 +298,16 @@
         <mxCell id="bottom-note" value="图4-1  中越民族传统体育文化跨境交流主体要素关系示意图" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontStyle=0;fontColor=#333333;" parent="1" vertex="1">
           <mxGeometry x="284" y="650" width="400" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="layer-note-1" value="政&#xa;府&#xa;引&#xa;导" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontStyle=1;fontColor=#1976D2;" parent="1" vertex="1">
+        <mxCell id="layer-note-1" value="政&#xa;府&#xa;引&#xa;导" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="10" y="110" width="25" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="layer-note-2" value="社&#xa;会&#xa;协&#xa;同" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontStyle=1;fontColor=#388E3C;" parent="1" vertex="1">
+        <mxCell id="layer-note-2" value="社&#xa;会&#xa;协&#xa;同" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="10" y="265" width="25" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="layer-note-3" value="社&#xa;区&#xa;参&#xa;与" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontStyle=1;fontColor=#F57C00;" parent="1" vertex="1">
+        <mxCell id="layer-note-3" value="社&#xa;区&#xa;参&#xa;与" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="10" y="410" width="25" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="layer-note-4" value="个&#xa;体&#xa;能&#xa;动" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontStyle=1;fontColor=#7B1FA2;" parent="1" vertex="1">
+        <mxCell id="layer-note-4" value="个&#xa;体&#xa;能&#xa;动" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="10" y="555" width="25" height="70" as="geometry" />
         </mxCell>
       </root>
