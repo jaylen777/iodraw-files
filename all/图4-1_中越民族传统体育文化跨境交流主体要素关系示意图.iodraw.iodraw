@@ -11,7 +11,7 @@
           <mxGeometry x="40" y="70" width="860" height="140" as="geometry" />
         </mxCell>
         <mxCell id="gov-layer-label" value="政府主体（引导层）" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontStyle=1;" parent="1" vertex="1">
-          <mxGeometry x="50" y="75" width="150" height="25" as="geometry" />
+          <mxGeometry x="420" y="75" width="150" height="25" as="geometry" />
         </mxCell>
         <mxCell id="china-gov-box" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="60" y="105" width="380" height="95" as="geometry" />
@@ -125,7 +125,7 @@
           <mxGeometry x="40" y="380" width="860" height="120" as="geometry" />
         </mxCell>
         <mxCell id="community-layer-label" value="社区主体（参与层）" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontStyle=1;" parent="1" vertex="1">
-          <mxGeometry x="50" y="385" width="150" height="25" as="geometry" />
+          <mxGeometry x="415" y="385" width="150" height="25" as="geometry" />
         </mxCell>
         <mxCell id="china-community-box" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="60" y="415" width="380" height="75" as="geometry" />
