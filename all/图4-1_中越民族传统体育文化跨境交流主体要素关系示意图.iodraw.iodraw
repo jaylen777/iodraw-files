@@ -22,13 +22,13 @@
         <mxCell id="national" value="国家层面&#xa;（体育总局群体司）" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="70" y="130" width="85" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="provincial" value="省级层面&#xa;（云南省体育局）" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" parent="1" vertex="1">
+        <mxCell id="provincial" value="省级层面&lt;br&gt;（省体育局）" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="165" y="130" width="85" height="60" as="geometry" />
         </mxCell>
         <mxCell id="prefecture" value="州市层面&#xa;（文山州政府）" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="260" y="130" width="85" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="county" value="县区层面&#xa;（马关县政府）" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" parent="1" vertex="1">
+        <mxCell id="county" value="县区层面&lt;br&gt;（马关县政府等）" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="355" y="130" width="75" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vietnam-gov-box" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
