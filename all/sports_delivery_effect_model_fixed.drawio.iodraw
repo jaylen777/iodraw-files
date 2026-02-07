@@ -17,7 +17,7 @@
           <mxGeometry x="20" y="52" width="2480" height="1" as="geometry" />
         </mxCell>
         <mxCell id="kxX20s7rl3VqNyuFS86X-146" value="" style="rounded=0;fillColor=#F2F2F2;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="170" y="62" width="2120" height="145" as="geometry" />
+          <mxGeometry x="170" y="62" width="1020" height="145" as="geometry" />
         </mxCell>
         <mxCell id="kxX20s7rl3VqNyuFS86X-147" value="绪论" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#4A4A4A;strokeColor=none;fontColor=#FFFFFF;fontSize=14;fontFamily=Microsoft YaHei;fontStyle=1;arcSize=20;" vertex="1" parent="1">
           <mxGeometry x="35" y="105" width="120" height="45" as="geometry" />
@@ -302,7 +302,7 @@
           <mxGeometry x="2340" y="555" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="kxX20s7rl3VqNyuFS86X-215" value="" style="rounded=0;fillColor=#F2F2F2;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="170" y="620" width="2120" height="145" as="geometry" />
+          <mxGeometry x="170" y="620" width="1020" height="145" as="geometry" />
         </mxCell>
         <mxCell id="kxX20s7rl3VqNyuFS86X-216" value="研究结果&lt;br&gt;与分析" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#4A4A4A;strokeColor=none;fontColor=#FFFFFF;fontSize=14;fontFamily=Microsoft YaHei;fontStyle=1;arcSize=20;" vertex="1" parent="1">
           <mxGeometry x="35" y="662" width="120" height="45" as="geometry" />
@@ -425,7 +425,7 @@
           <mxGeometry x="2340" y="790" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kxX20s7rl3VqNyuFS86X-244" value="" style="rounded=0;fillColor=#F2F2F2;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="170" y="845" width="2120" height="70" as="geometry" />
+          <mxGeometry x="170" y="845" width="1000" height="70" as="geometry" />
         </mxCell>
         <mxCell id="kxX20s7rl3VqNyuFS86X-245" value="结论与&lt;br&gt;展望" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#4A4A4A;strokeColor=none;fontColor=#FFFFFF;fontSize=14;fontFamily=Microsoft YaHei;fontStyle=1;arcSize=20;" vertex="1" parent="1">
           <mxGeometry x="35" y="855" width="120" height="45" as="geometry" />
