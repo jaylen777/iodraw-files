@@ -4,14 +4,11 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="kxX20s7rl3VqNyuFS86X-257" value="确定研究问题与假设，完成文献综述与理论框架构建&lt;br&gt;（非线性教学理论、约束主导教学法CLA、心率监测技术）" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#000000;fontSize=13;fontFamily=Microsoft YaHei;arcSize=8;strokeWidth=1.2;verticalAlign=middle;align=center;spacing=8;" vertex="1" parent="1">
-          <mxGeometry x="243" y="60" width="350" height="60" as="geometry" />
+        <mxCell id="kxX20s7rl3VqNyuFS86X-312" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kxX20s7rl3VqNyuFS86X-257" target="kxX20s7rl3VqNyuFS86X-259">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="kxX20s7rl3VqNyuFS86X-258" value="" style="endArrow=block;endFill=1;strokeColor=#000000;strokeWidth=1.2;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="410" y="120" as="sourcePoint" />
-            <mxPoint x="410" y="140" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="kxX20s7rl3VqNyuFS86X-257" value="确定研究问题与假设，完成文献综述与理论框架构建&lt;br&gt;（非线性教学理论、约束主导教学法CLA、心率监测技术）" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#000000;fontSize=13;fontFamily=Microsoft YaHei;arcSize=8;strokeWidth=1.2;verticalAlign=middle;align=center;spacing=8;" vertex="1" parent="1">
+          <mxGeometry x="263" y="60" width="350" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kxX20s7rl3VqNyuFS86X-310" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="kxX20s7rl3VqNyuFS86X-259" target="kxX20s7rl3VqNyuFS86X-261">
           <mxGeometry relative="1" as="geometry" />
