@@ -77,12 +77,12 @@
         <mxCell id="kxX20s7rl3VqNyuFS86X-282" value="过程性数据采集&lt;br&gt;（目标心率区间停留比例、&lt;br&gt;配速目标选择模式）" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#000000;fontSize=11;fontFamily=Microsoft YaHei;arcSize=8;strokeWidth=1;verticalAlign=middle;align=center;spacing=4;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="450.5" y="630" width="200" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="kxX20s7rl3VqNyuFS86X-283" value="" style="endArrow=block;endFill=1;strokeColor=#000000;strokeWidth=1;dashed=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="kxX20s7rl3VqNyuFS86X-277" target="kxX20s7rl3VqNyuFS86X-282">
+        <mxCell id="kxX20s7rl3VqNyuFS86X-283" value="" style="endArrow=block;endFill=1;strokeColor=#000000;strokeWidth=1;dashed=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;rounded=0;curved=0;" edge="1" parent="1" source="kxX20s7rl3VqNyuFS86X-277" target="kxX20s7rl3VqNyuFS86X-282">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="700" y="648" as="sourcePoint" />
             <mxPoint x="700" y="663" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="610" y="575" />
+              <mxPoint x="601" y="570" />
             </Array>
           </mxGeometry>
         </mxCell>
