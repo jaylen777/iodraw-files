@@ -17,7 +17,7 @@
           <mxGeometry x="-110" y="55" width="2500" height="1" as="geometry" />
         </mxCell>
         <mxCell id="kxX20s7rl3VqNyuFS86X-5" value="" style="rounded=0;whiteSpace=wrap;opacity=60;" vertex="1" parent="1">
-          <mxGeometry x="40" y="65" width="2150" height="225" as="geometry" />
+          <mxGeometry x="40" y="65" width="1070" height="225" as="geometry" />
         </mxCell>
         <mxCell id="kxX20s7rl3VqNyuFS86X-6" value="&lt;b&gt;绪论与&lt;br&gt;文献梳理&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;fontFamily=Microsoft YaHei;arcSize=20;verticalAlign=middle;align=center;" vertex="1" parent="1">
           <mxGeometry x="-105" y="130" width="130" height="60" as="geometry" />
@@ -575,7 +575,7 @@
           <mxGeometry x="38" y="55" width="1" height="1270" as="geometry" />
         </mxCell>
         <mxCell id="kxX20s7rl3VqNyuFS86X-141" value="" style="shape=line;strokeWidth=1;dashed=1;direction=south;" vertex="1" parent="1">
-          <mxGeometry x="2190" y="55" width="1" height="1270" as="geometry" />
+          <mxGeometry x="1870" y="55" width="321" height="1270" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
