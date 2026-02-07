@@ -95,10 +95,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="kxX20s7rl3VqNyuFS86X-276" value="开始进行8周传统&lt;br&gt;800米跑教学" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#000000;fontSize=13;fontFamily=Microsoft YaHei;arcSize=8;strokeWidth=1.2;verticalAlign=middle;align=center;spacing=6;" vertex="1" parent="1">
-          <mxGeometry x="120" y="740" width="220" height="55" as="geometry" />
+          <mxGeometry x="230" y="740" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="kxX20s7rl3VqNyuFS86X-277" value="开始进行8周非线性教学&lt;br&gt;+运动手环的800米跑教学" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#000000;fontSize=13;fontFamily=Microsoft YaHei;arcSize=8;strokeWidth=1.2;verticalAlign=middle;align=center;spacing=6;" vertex="1" parent="1">
-          <mxGeometry x="480" y="740" width="220" height="55" as="geometry" />
+          <mxGeometry x="530" y="740" width="170" height="50" as="geometry" />
         </mxCell>
         <mxCell id="kxX20s7rl3VqNyuFS86X-278" value="" style="endArrow=none;strokeColor=#000000;strokeWidth=1.2;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
