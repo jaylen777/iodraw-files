@@ -20,13 +20,7 @@
           <mxGeometry x="263" y="210" width="310" height="50" as="geometry" />
         </mxCell>
         <mxCell id="kxX20s7rl3VqNyuFS86X-263" value="对任课体育教师进行非线性教学模式培训，&lt;br&gt;保障教学干预忠实度" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#000000;fontSize=13;fontFamily=Microsoft YaHei;arcSize=8;strokeWidth=1.2;verticalAlign=middle;align=center;spacing=8;" vertex="1" parent="1">
-          <mxGeometry x="273" y="310" width="290" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="kxX20s7rl3VqNyuFS86X-264" value="" style="endArrow=block;endFill=1;strokeColor=#000000;strokeWidth=1.2;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="410" y="400" as="sourcePoint" />
-            <mxPoint x="410" y="440" as="targetPoint" />
-          </mxGeometry>
+          <mxGeometry x="273" y="282" width="290" height="50" as="geometry" />
         </mxCell>
         <mxCell id="kxX20s7rl3VqNyuFS86X-265" value="进行800米跑成绩、配速、心肺适能、内在动机的前测，&lt;br&gt;收集基线数据，检验组间同质性" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#000000;fontSize=13;fontFamily=Microsoft YaHei;arcSize=8;strokeWidth=1.2;verticalAlign=middle;align=center;spacing=8;" vertex="1" parent="1">
           <mxGeometry x="248" y="440" width="340" height="60" as="geometry" />
@@ -150,8 +144,8 @@
         </mxCell>
         <mxCell id="kxX20s7rl3VqNyuFS86X-290" value="" style="endArrow=block;endFill=1;strokeColor=#000000;strokeWidth=1.2;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="410" y="290" as="sourcePoint" />
-            <mxPoint x="410" y="310" as="targetPoint" />
+            <mxPoint x="410" y="262" as="sourcePoint" />
+            <mxPoint x="410" y="282" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="kxX20s7rl3VqNyuFS86X-291" value="" style="endArrow=block;endFill=1;strokeColor=#000000;strokeWidth=1.2;" edge="1" parent="1">
