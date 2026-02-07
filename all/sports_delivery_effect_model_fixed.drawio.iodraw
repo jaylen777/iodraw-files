@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="技术路线图" id="Kf22GEa5QJ0bNH2dLzHk">
-    <mxGraphModel dx="3632" dy="1505" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2245" dy="1505" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -64,7 +64,7 @@
         <mxCell id="kxX20s7rl3VqNyuFS86X-18" value="&lt;b&gt;研究设计整体框架构建&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;fontSize=13;fontFamily=Microsoft YaHei;" vertex="1" parent="1">
           <mxGeometry x="672.5" y="80" width="200" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="kxX20s7rl3VqNyuFS86X-19" value="研究对象&lt;br&gt;与总体思想" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;fontFamily=Microsoft YaHei;arcSize=15;verticalAlign=middle;align=center;strokeWidth=1;" vertex="1" parent="1">
+        <mxCell id="kxX20s7rl3VqNyuFS86X-19" value="研究对象" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;fontFamily=Microsoft YaHei;arcSize=15;verticalAlign=middle;align=center;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="342.5" y="116" width="120" height="42" as="geometry" />
         </mxCell>
         <mxCell id="kxX20s7rl3VqNyuFS86X-20" value="" style="endArrow=block;endFill=1;strokeWidth=1.2;" edge="1" parent="1">
