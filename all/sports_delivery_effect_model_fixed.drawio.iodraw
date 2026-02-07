@@ -77,10 +77,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="kxX20s7rl3VqNyuFS86X-272" value="对照组" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#000000;fontSize=13;fontFamily=Microsoft YaHei;arcSize=12;strokeWidth=1.2;verticalAlign=middle;align=center;spacing=6;" vertex="1" parent="1">
-          <mxGeometry x="155" y="660" width="150" height="40" as="geometry" />
+          <mxGeometry x="240" y="660" width="65" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kxX20s7rl3VqNyuFS86X-273" value="实验组" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#000000;fontSize=13;fontFamily=Microsoft YaHei;arcSize=12;strokeWidth=1.2;verticalAlign=middle;align=center;spacing=6;" vertex="1" parent="1">
-          <mxGeometry x="515" y="660" width="150" height="40" as="geometry" />
+          <mxGeometry x="515" y="660" width="95" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kxX20s7rl3VqNyuFS86X-274" value="" style="endArrow=block;endFill=1;strokeColor=#000000;strokeWidth=1.2;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
