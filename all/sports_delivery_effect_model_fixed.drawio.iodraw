@@ -59,45 +59,39 @@
           <mxGeometry x="503" y="228" width="95" height="36" as="geometry" />
         </mxCell>
         <mxCell id="kxX20s7rl3VqNyuFS86X-17" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1.5;arcSize=6;" vertex="1" parent="1">
-          <mxGeometry x="670" y="72" width="1050" height="95" as="geometry" />
+          <mxGeometry x="322.5" y="80" width="1050" height="95" as="geometry" />
         </mxCell>
         <mxCell id="kxX20s7rl3VqNyuFS86X-18" value="&lt;b&gt;研究设计整体框架构建&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;fontSize=13;fontFamily=Microsoft YaHei;" vertex="1" parent="1">
-          <mxGeometry x="1020" y="72" width="200" height="30" as="geometry" />
+          <mxGeometry x="672.5" y="80" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kxX20s7rl3VqNyuFS86X-19" value="研究对象&lt;br&gt;与总体思想" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;fontFamily=Microsoft YaHei;arcSize=15;verticalAlign=middle;align=center;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="690" y="108" width="120" height="42" as="geometry" />
+          <mxGeometry x="342.5" y="116" width="120" height="42" as="geometry" />
         </mxCell>
         <mxCell id="kxX20s7rl3VqNyuFS86X-20" value="" style="endArrow=block;endFill=1;strokeWidth=1.2;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="810" y="129" as="sourcePoint" />
-            <mxPoint x="840" y="129" as="targetPoint" />
+            <mxPoint x="462.5" y="137" as="sourcePoint" />
+            <mxPoint x="492.5" y="137" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="kxX20s7rl3VqNyuFS86X-21" value="研究方法&lt;br&gt;体系选择" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;fontFamily=Microsoft YaHei;arcSize=15;verticalAlign=middle;align=center;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="840" y="108" width="120" height="42" as="geometry" />
+          <mxGeometry x="492.5" y="116" width="120" height="42" as="geometry" />
         </mxCell>
         <mxCell id="kxX20s7rl3VqNyuFS86X-22" value="" style="endArrow=block;endFill=1;strokeWidth=1.2;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="960" y="129" as="sourcePoint" />
-            <mxPoint x="990" y="129" as="targetPoint" />
+            <mxPoint x="612.5" y="137" as="sourcePoint" />
+            <mxPoint x="642.5" y="137" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="kxX20s7rl3VqNyuFS86X-23" value="核心概念&lt;br&gt;精准界定" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;fontFamily=Microsoft YaHei;arcSize=15;verticalAlign=middle;align=center;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="990" y="108" width="120" height="42" as="geometry" />
+          <mxGeometry x="642.5" y="116" width="120" height="42" as="geometry" />
         </mxCell>
         <mxCell id="kxX20s7rl3VqNyuFS86X-24" value="理论基础深化&lt;br&gt;（非线性教学理论、&lt;br&gt;约束主导教学法CLA）" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;fontFamily=Microsoft YaHei;arcSize=12;verticalAlign=middle;align=center;strokeWidth=1.5;" vertex="1" parent="1">
-          <mxGeometry x="1170" y="100" width="190" height="56" as="geometry" />
+          <mxGeometry x="822.5" y="108" width="190" height="56" as="geometry" />
         </mxCell>
         <mxCell id="kxX20s7rl3VqNyuFS86X-25" value="" style="endArrow=block;endFill=1;strokeWidth=1.2;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1110" y="129" as="sourcePoint" />
-            <mxPoint x="1170" y="129" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="kxX20s7rl3VqNyuFS86X-27" value="" style="endArrow=block;endFill=1;strokeWidth=1.5;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="610" y="245" as="sourcePoint" />
-            <mxPoint x="670" y="212" as="targetPoint" />
+            <mxPoint x="762.5" y="137" as="sourcePoint" />
+            <mxPoint x="822.5" y="137" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="kxX20s7rl3VqNyuFS86X-28" value="&lt;b&gt;文献法&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;fontSize=14;fontFamily=Microsoft YaHei;" vertex="1" parent="1">
