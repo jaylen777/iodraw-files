@@ -148,12 +148,6 @@
             <mxPoint x="410" y="282" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="kxX20s7rl3VqNyuFS86X-291" value="" style="endArrow=block;endFill=1;strokeColor=#000000;strokeWidth=1.2;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="416" y="378" as="sourcePoint" />
-            <mxPoint x="416" y="398" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
