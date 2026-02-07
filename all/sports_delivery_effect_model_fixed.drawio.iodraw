@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="技术路线图" id="Kf22GEa5QJ0bNH2dLzHk">
-    <mxGraphModel dx="372" dy="352" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="530" dy="502" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -29,12 +29,17 @@
           <mxGeometry x="368" y="430" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="kxX20s7rl3VqNyuFS86X-297" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="kxX20s7rl3VqNyuFS86X-272" target="kxX20s7rl3VqNyuFS86X-276">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="360" y="530" />
+              <mxPoint x="360" y="530" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="kxX20s7rl3VqNyuFS86X-272" value="对照组" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#000000;fontSize=13;fontFamily=Microsoft YaHei;arcSize=12;strokeWidth=1.2;verticalAlign=middle;align=center;spacing=6;" vertex="1" parent="1">
           <mxGeometry x="330" y="490" width="85" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="kxX20s7rl3VqNyuFS86X-298" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kxX20s7rl3VqNyuFS86X-273">
+        <mxCell id="kxX20s7rl3VqNyuFS86X-298" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.57;entryY=0.033;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="kxX20s7rl3VqNyuFS86X-273" target="kxX20s7rl3VqNyuFS86X-277">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="505" y="550" as="targetPoint" />
           </mxGeometry>
