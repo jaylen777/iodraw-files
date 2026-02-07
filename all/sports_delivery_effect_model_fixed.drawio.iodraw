@@ -32,11 +32,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="kxX20s7rl3VqNyuFS86X-301" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="kxX20s7rl3VqNyuFS86X-273">
+        <mxCell id="kxX20s7rl3VqNyuFS86X-301" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="kxX20s7rl3VqNyuFS86X-267" target="kxX20s7rl3VqNyuFS86X-273">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="510" y="450" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="438" y="490" />
+              <mxPoint x="530" y="450" />
+              <mxPoint x="530" y="490" />
             </Array>
           </mxGeometry>
         </mxCell>
