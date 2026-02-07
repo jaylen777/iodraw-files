@@ -14,16 +14,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="kxX20s7rl3VqNyuFS86X-259" value="确定实验学校，设计实验方案&lt;br&gt;（准实验设计、8周/16课时干预周期、样本量估算）" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#000000;fontSize=13;fontFamily=Microsoft YaHei;arcSize=8;strokeWidth=1.2;verticalAlign=middle;align=center;spacing=8;" vertex="1" parent="1">
-          <mxGeometry x="263" y="140" width="310" height="50" as="geometry" />
+          <mxGeometry x="283" y="140" width="310" height="50" as="geometry" />
         </mxCell>
         <mxCell id="kxX20s7rl3VqNyuFS86X-261" value="编制测量工具，确定因变量指标&lt;br&gt;（800米跑成绩、配速变异系数、心肺适能、IMI内在动机量表）" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#000000;fontSize=13;fontFamily=Microsoft YaHei;arcSize=8;strokeWidth=1.2;verticalAlign=middle;align=center;spacing=8;" vertex="1" parent="1">
-          <mxGeometry x="263" y="210" width="310" height="50" as="geometry" />
+          <mxGeometry x="283" y="210" width="310" height="50" as="geometry" />
         </mxCell>
         <mxCell id="kxX20s7rl3VqNyuFS86X-263" value="对任课体育教师进行非线性教学模式培训，&lt;br&gt;保障教学干预忠实度" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#000000;fontSize=13;fontFamily=Microsoft YaHei;arcSize=8;strokeWidth=1.2;verticalAlign=middle;align=center;spacing=8;" vertex="1" parent="1">
-          <mxGeometry x="273" y="282" width="290" height="50" as="geometry" />
+          <mxGeometry x="293" y="282" width="290" height="50" as="geometry" />
         </mxCell>
         <mxCell id="kxX20s7rl3VqNyuFS86X-265" value="进行800米跑成绩、配速、心肺适能、内在动机的前测，&lt;br&gt;收集基线数据，检验组间同质性" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#000000;fontSize=13;fontFamily=Microsoft YaHei;arcSize=8;strokeWidth=1.2;verticalAlign=middle;align=center;spacing=8;" vertex="1" parent="1">
-          <mxGeometry x="253" y="350" width="340" height="60" as="geometry" />
+          <mxGeometry x="268" y="350" width="340" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kxX20s7rl3VqNyuFS86X-294" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="kxX20s7rl3VqNyuFS86X-267" target="kxX20s7rl3VqNyuFS86X-272">
           <mxGeometry relative="1" as="geometry">
@@ -40,7 +40,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="kxX20s7rl3VqNyuFS86X-267" value="确定实验对象，分组" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#000000;fontSize=13;fontFamily=Microsoft YaHei;arcSize=8;strokeWidth=1.2;verticalAlign=middle;align=center;spacing=8;" vertex="1" parent="1">
-          <mxGeometry x="348" y="430" width="140" height="40" as="geometry" />
+          <mxGeometry x="368" y="430" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="kxX20s7rl3VqNyuFS86X-297" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="kxX20s7rl3VqNyuFS86X-272" target="kxX20s7rl3VqNyuFS86X-276">
           <mxGeometry relative="1" as="geometry" />
@@ -94,7 +94,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="kxX20s7rl3VqNyuFS86X-287" value="数据整理与统计分析&lt;br&gt;（描述统计、组别×时间交互效应检验、亚组分析）" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#000000;fontSize=13;fontFamily=Microsoft YaHei;arcSize=8;strokeWidth=1.2;verticalAlign=middle;align=center;spacing=8;" vertex="1" parent="1">
-          <mxGeometry x="307.5" y="780" width="310" height="50" as="geometry" />
+          <mxGeometry x="283" y="780" width="310" height="50" as="geometry" />
         </mxCell>
         <mxCell id="kxX20s7rl3VqNyuFS86X-288" value="&lt;b&gt;图3-1 技术路线图&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;fontSize=14;fontColor=#000000;fontFamily=Microsoft YaHei;" vertex="1" parent="1">
           <mxGeometry x="310" y="1040" width="200" height="30" as="geometry" />
