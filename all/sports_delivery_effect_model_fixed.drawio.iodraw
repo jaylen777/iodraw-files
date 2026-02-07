@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="技术路线图" id="Kf22GEa5QJ0bNH2dLzHk">
-    <mxGraphModel dx="1715" dy="1274" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1346" dy="1274" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -378,21 +378,6 @@
             <mxPoint x="95" y="707" as="sourcePoint" />
             <mxPoint x="95" y="790" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="kxX20s7rl3VqNyuFS86X-234" value="NLP+运动手环对&lt;br&gt;800米跑表现的影响" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#888888;fontSize=12;fontFamily=Microsoft YaHei;arcSize=12;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="300" y="775" width="130" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="kxX20s7rl3VqNyuFS86X-236" value="对配速控制&lt;br&gt;能力的影响" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#888888;fontSize=12;fontFamily=Microsoft YaHei;arcSize=12;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="465" y="775" width="95" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="kxX20s7rl3VqNyuFS86X-238" value="对内在动机&lt;br&gt;的影响" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#888888;fontSize=12;fontFamily=Microsoft YaHei;arcSize=12;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="650" y="775" width="70" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="kxX20s7rl3VqNyuFS86X-240" value="运动手环作为约束&lt;br&gt;量化工具的方法论意义" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#888888;fontSize=12;fontFamily=Microsoft YaHei;arcSize=12;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="825" y="775" width="230" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="kxX20s7rl3VqNyuFS86X-242" value="NLP向封闭性耐力&lt;br&gt;项目迁移的可行性" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#888888;fontSize=12;fontFamily=Microsoft YaHei;arcSize=12;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="1090" y="775" width="210" height="40" as="geometry" />
         </mxCell>
         <mxCell id="kxX20s7rl3VqNyuFS86X-255" value="" style="line;strokeColor=#BBBBBB;strokeWidth=1;dashed=1;direction=south;" vertex="1" parent="1">
           <mxGeometry x="168" y="52" width="1" height="870" as="geometry" />
