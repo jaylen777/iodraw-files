@@ -32,9 +32,9 @@
           <mxGeometry x="515" y="275" width="110" height="90" as="geometry" />
         </mxCell>
         <mxCell id="1QCrvv-O2935EeDQdEzC-11" value="提升低效化资源" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#000000;strokeWidth=1;fontColor=#000000;fontSize=10;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="500" y="130" width="120" height="26" as="geometry" />
+          <mxGeometry x="520" y="140" width="120" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="1QCrvv-O2935EeDQdEzC-12" value="激活沉淀资源" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#000000;strokeWidth=1;fontColor=#000000;fontSize=10;dashed=1;rotation=60;" vertex="1" parent="1">
+        <mxCell id="1QCrvv-O2935EeDQdEzC-12" value="激活闲置资源" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#000000;strokeWidth=1;fontColor=#000000;fontSize=10;dashed=1;rotation=60;" vertex="1" parent="1">
           <mxGeometry x="750" y="195" width="110" height="26" as="geometry" />
         </mxCell>
         <mxCell id="1QCrvv-O2935EeDQdEzC-13" value="呈现立体化资源" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#000000;strokeWidth=1;fontColor=#000000;fontSize=10;dashed=1;rotation=-60;" vertex="1" parent="1">
