@@ -47,7 +47,7 @@
           <mxGeometry x="310" y="420" width="120" height="26" as="geometry" />
         </mxCell>
         <mxCell id="1QCrvv-O2935EeDQdEzC-16" value="识别潜在交易主体" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#000000;strokeWidth=1;fontColor=#000000;fontSize=10;dashed=1;rotation=-60;" vertex="1" parent="1">
-          <mxGeometry x="300" y="195" width="130" height="26" as="geometry" />
+          <mxGeometry x="320" y="218" width="130" height="26" as="geometry" />
         </mxCell>
         <mxCell id="1QCrvv-O2935EeDQdEzC-17" value="数据分析&lt;br&gt;仿真模拟" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="450" y="175" width="65" height="35" as="geometry" />
