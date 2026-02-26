@@ -23,7 +23,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="label-x" value="环境依赖性" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="600" y="390" width="80" height="30" as="geometry" />
+          <mxGeometry x="450" y="400" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="label-y" value="效率" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="70" y="120" width="60" height="30" as="geometry" />
