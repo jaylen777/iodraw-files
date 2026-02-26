@@ -38,9 +38,12 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="266" y="305" as="sourcePoint" />
             <mxPoint x="366" y="225" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="316" y="265" />
-            </Array>
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EGzYsDDyVUTs1morIeSe-1" value="&lt;span style=&quot;font-size: 12px; text-wrap-mode: wrap; background-color: rgb(251, 251, 251);&quot;&gt;转型升级&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="upgrade-arrow">
+          <mxGeometry x="0.0049" y="4" relative="1" as="geometry">
+            <mxPoint x="1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="upgrade-label" value="转型升级" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;rotation=-35;" parent="1" vertex="1">
