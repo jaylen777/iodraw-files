@@ -1,88 +1,50 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36" version="24.7.17">
-  <diagram name="全球价值链微笑曲线演进" id="fig_2_2">
+  <diagram name="四种升级类型递进关系" id="fig_2_3">
     <mxGraphModel dx="1026" dy="655" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="x-axis" value="" style="endArrow=classic;html=1;strokeWidth=2;" parent="1" edge="1">
+        <mxCell id="process-upgrade" value="过程升级（Process Upgrading）&#xa;&#xa;• 自动化生产&#xa;• 精益管理&#xa;• 数字化运营" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=20;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=12;align=left;spacingLeft=20;" parent="1" vertex="1">
+          <mxGeometry x="200" y="400" width="400" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="product-upgrade" value="产品升级（Product Upgrading）&#xa;&#xa;• 材料创新&#xa;• 功能提升&#xa;• 智能化" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=15;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=12;align=left;spacingLeft=20;" parent="1" vertex="1">
+          <mxGeometry x="240" y="300" width="320" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="functional-upgrade" value="功能升级（Functional Upgrading）&#xa;&#xa;• OEM→ODM→OBM&#xa;• 价值链攀升" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=10;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=12;align=left;spacingLeft=20;" parent="1" vertex="1">
+          <mxGeometry x="280" y="200" width="240" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="chain-upgrade" value="产业链升级&#xa;(Chain Upgrading)&#xa;&#xa;• 制造→服务&#xa;• 体育+融合" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=5;fillColor=#f8cecc;strokeColor=#b85450;fontSize=12;align=center;" parent="1" vertex="1">
+          <mxGeometry x="320" y="100" width="160" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="difficulty-arrow" value="" style="shape=flexArrow;endArrow=classic;html=1;fillColor=#FFB366;strokeColor=#D6B656;strokeWidth=2;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="100" y="400" as="sourcePoint" />
-            <mxPoint x="700" y="400" as="targetPoint" />
+            <mxPoint x="120" y="480" as="sourcePoint" />
+            <mxPoint x="120" y="120" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="y-axis" value="" style="endArrow=classic;html=1;strokeWidth=2;" parent="1" edge="1">
+        <mxCell id="difficulty-label" value="升级难度" style="text;html=1;align=center;verticalAlign=middle;fontSize=12;rotation=-90;" parent="1" vertex="1">
+          <mxGeometry x="70" y="290" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="value-arrow" value="" style="shape=flexArrow;endArrow=classic;html=1;fillColor=#B3FF66;strokeColor=#82B366;strokeWidth=2;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="100" y="500" as="sourcePoint" />
-            <mxPoint x="100" y="100" as="targetPoint" />
+            <mxPoint x="680" y="480" as="sourcePoint" />
+            <mxPoint x="680" y="120" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="x-label" value="价值链环节" style="text;html=1;align=center;verticalAlign=middle;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="370" y="410" width="100" height="30" as="geometry" />
+        <mxCell id="value-label" value="价值增加" style="text;html=1;align=center;verticalAlign=middle;fontSize=12;rotation=-90;" parent="1" vertex="1">
+          <mxGeometry x="630" y="290" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="y-label" value="附加值/利润率" style="text;html=1;align=center;verticalAlign=middle;fontSize=14;rotation=-90;" parent="1" vertex="1">
-          <mxGeometry x="60" y="220" width="120" height="30" as="geometry" />
+        <mxCell id="case-process" value="案例：晋江智能工厂" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;fontSize=10;" parent="1" vertex="1">
+          <mxGeometry x="610" y="430" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="curve-2000" value="" style="curved=1;endArrow=none;html=1;strokeWidth=2;strokeColor=#FF0000;dashed=1;dashPattern=5 5;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="150" y="200" as="sourcePoint" />
-            <mxPoint x="650" y="200" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="200" y="180" />
-              <mxPoint x="300" y="340" />
-              <mxPoint x="400" y="360" />
-              <mxPoint x="500" y="340" />
-              <mxPoint x="600" y="180" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="case-product" value="案例：安踏氮科技" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;fontSize=10;" parent="1" vertex="1">
+          <mxGeometry x="570" y="330" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="curve-2024" value="" style="curved=1;endArrow=none;html=1;strokeWidth=2;strokeColor=#0000FF;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="150" y="240" as="sourcePoint" />
-            <mxPoint x="650" y="240" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="200" y="220" />
-              <mxPoint x="300" y="300" />
-              <mxPoint x="400" y="310" />
-              <mxPoint x="500" y="300" />
-              <mxPoint x="600" y="220" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="case-functional" value="案例：李宁品牌" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;fontSize=10;" parent="1" vertex="1">
+          <mxGeometry x="530" y="230" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="rd-label" value="研发设计" style="text;html=1;align=center;fontSize=12;" parent="1" vertex="1">
-          <mxGeometry x="160" y="450" width="80" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="mfg-label" value="制造加工" style="text;html=1;align=center;fontSize=12;" parent="1" vertex="1">
-          <mxGeometry x="380" y="450" width="80" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="mkt-label" value="品牌营销" style="text;html=1;align=center;fontSize=12;" parent="1" vertex="1">
-          <mxGeometry x="560" y="450" width="80" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="cn-position-2000" value="中国企业主要位置(2000)" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#FF0000;dashed=1;" parent="1" vertex="1">
-          <mxGeometry x="340" y="340" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="cn-position-2024" value="中国企业扩展范围(2024)" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ccccff;strokeColor=#0000FF;opacity=50;" parent="1" vertex="1">
-          <mxGeometry x="250" y="270" width="300" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="upgrade-path-left" value="" style="shape=flexArrow;endArrow=classic;html=1;fillColor=#FFE599;strokeColor=#D6B656;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="350" y="320" as="sourcePoint" />
-            <mxPoint x="250" y="260" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="upgrade-path-right" value="" style="shape=flexArrow;endArrow=classic;html=1;fillColor=#FFE599;strokeColor=#D6B656;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="450" y="320" as="sourcePoint" />
-            <mxPoint x="550" y="260" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="legend-box" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="550" y="120" width="180" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="legend-2000" value="—— 2000年" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;fontSize=12;fontColor=#FF0000;" parent="1" vertex="1">
-          <mxGeometry x="560" y="130" width="100" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="legend-2024" value="—— 2024年" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;fontSize=12;fontColor=#0000FF;" parent="1" vertex="1">
-          <mxGeometry x="560" y="160" width="100" height="30" as="geometry" />
+        <mxCell id="case-chain" value="案例：Keep生态" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;fontSize=10;" parent="1" vertex="1">
+          <mxGeometry x="490" y="130" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
