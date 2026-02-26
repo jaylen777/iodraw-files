@@ -32,7 +32,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="value-label" value="价值增加" style="text;html=1;align=center;verticalAlign=middle;fontSize=12;rotation=-90;" parent="1" vertex="1">
-          <mxGeometry x="630" y="290" width="80" height="30" as="geometry" />
+          <mxGeometry x="630" y="280" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="case-process" value="案例：晋江智能工厂" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="610" y="430" width="120" height="30" as="geometry" />
