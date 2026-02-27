@@ -177,16 +177,16 @@
           <mxGeometry x="64.88" y="734" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Ylo9z9FVbj68OZPIBtWt-119" value="效果测度" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;opacity=90;fontStyle=1;fontSize=13;" parent="1" vertex="1">
-          <mxGeometry x="66.88" y="579.0000000000001" width="80" height="20" as="geometry" />
+          <mxGeometry x="64.88" y="579.0000000000001" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Ylo9z9FVbj68OZPIBtWt-120" value="国际比较" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;opacity=90;fontStyle=1;fontSize=13;" parent="1" vertex="1">
-          <mxGeometry x="66.88" y="460.5" width="80" height="20" as="geometry" />
+          <mxGeometry x="64.88" y="460.5" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Ylo9z9FVbj68OZPIBtWt-121" value="历史梳理" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;opacity=90;fontStyle=1;fontSize=13;" parent="1" vertex="1">
-          <mxGeometry x="66.88" y="351" width="80" height="20" as="geometry" />
+          <mxGeometry x="64.88" y="351" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Ylo9z9FVbj68OZPIBtWt-122" value="理论梳理" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;opacity=90;fontStyle=1;fontSize=13;" parent="1" vertex="1">
-          <mxGeometry x="68" y="225" width="80" height="20" as="geometry" />
+          <mxGeometry x="64.88" y="225" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Ylo9z9FVbj68OZPIBtWt-151" value="" style="shape=flexArrow;endArrow=classic;html=1;fontSize=13;fontColor=#000000;opacity=80;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
