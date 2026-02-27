@@ -266,7 +266,7 @@
         <mxCell id="Ylo9z9FVbj68OZPIBtWt-169" value="发展历程" style="rounded=0;whiteSpace=wrap;html=1;opacity=60;" parent="1" vertex="1">
           <mxGeometry x="165" y="345" width="69" height="18" as="geometry" />
         </mxCell>
-        <mxCell id="Ylo9z9FVbj68OZPIBtWt-79" value="理论推演" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fontColor=#333333;strokeColor=none;opacity=60;fillColor=#C4C4C4;" parent="1" vertex="1">
+        <mxCell id="Ylo9z9FVbj68OZPIBtWt-79" value="逻辑推理" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fontColor=#333333;strokeColor=none;opacity=60;fillColor=#C4C4C4;" parent="1" vertex="1">
           <mxGeometry x="498" y="544" width="74" height="14" as="geometry" />
         </mxCell>
         <mxCell id="j7_mbGs77swPTjLsTBsH-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" edge="1">
@@ -595,7 +595,7 @@
         <mxCell id="LcBwGFeKhkCtMw9NLm-D-1" value="实证分析" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fontColor=#333333;strokeColor=none;opacity=70;fillColor=#C7C7C7;" vertex="1" parent="1">
           <mxGeometry x="498" y="796" width="74" height="14" as="geometry" />
         </mxCell>
-        <mxCell id="LcBwGFeKhkCtMw9NLm-D-2" value="理论推演" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fontColor=#333333;strokeColor=none;opacity=60;fillColor=#C4C4C4;" vertex="1" parent="1">
+        <mxCell id="LcBwGFeKhkCtMw9NLm-D-2" value="逻辑分析" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fontColor=#333333;strokeColor=none;opacity=60;fillColor=#C4C4C4;" vertex="1" parent="1">
           <mxGeometry x="498" y="976" width="74" height="14" as="geometry" />
         </mxCell>
       </root>
