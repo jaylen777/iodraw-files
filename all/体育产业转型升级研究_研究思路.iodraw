@@ -210,7 +210,7 @@
           <mxGeometry x="435.75" y="820" width="122.5" height="36" as="geometry" />
         </mxCell>
         <mxCell id="Ylo9z9FVbj68OZPIBtWt-113" value="因素分析" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;opacity=90;fontStyle=1;fontSize=13;" parent="1" vertex="1">
-          <mxGeometry x="70" y="802" width="80" height="20" as="geometry" />
+          <mxGeometry x="66" y="848" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Ylo9z9FVbj68OZPIBtWt-119" value="效果测度" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;opacity=90;fontStyle=1;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="70" y="693.0000000000001" width="80" height="20" as="geometry" />
