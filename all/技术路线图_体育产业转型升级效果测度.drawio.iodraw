@@ -128,7 +128,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="L3" value="国际比较" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#2B7BC0;fontColor=#FFFFFF;strokeColor=#1a5a8f;fontStyle=1;fontSize=14;fontFamily=Microsoft YaHei;" parent="1" vertex="1">
-          <mxGeometry x="30" y="460" width="80" height="40" as="geometry" />
+          <mxGeometry x="30" y="479" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="A3" value="第4章" style="text;html=1;align=right;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#888888;fontSize=12;fontStyle=2;fontFamily=Microsoft YaHei;" parent="1" vertex="1">
           <mxGeometry x="940" y="430" width="50" height="30" as="geometry" />
