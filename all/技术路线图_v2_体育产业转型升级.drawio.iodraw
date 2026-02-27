@@ -209,7 +209,7 @@
           <mxGeometry x="950" y="755" width="100" height="22" as="geometry" />
         </mxCell>
         <mxCell id="G4" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1.5;dashed=1;dashPattern=8 4;shadow=0;" parent="1" vertex="1">
-          <mxGeometry x="160" y="750" width="780" height="250" as="geometry" />
+          <mxGeometry x="160" y="750" width="780" height="170" as="geometry" />
         </mxCell>
         <mxCell id="T4" value="国际体育产业转型升级经验与启示" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=14;fontFamily=Microsoft YaHei;shadow=0;" parent="1" vertex="1">
           <mxGeometry x="270" y="756" width="400" height="36" as="geometry" />
@@ -266,7 +266,7 @@
           <mxGeometry x="920" y="1020" width="130" height="22" as="geometry" />
         </mxCell>
         <mxCell id="G5" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1.5;dashed=1;dashPattern=8 4;shadow=0;" parent="1" vertex="1">
-          <mxGeometry x="160" y="1015" width="760" height="345" as="geometry" />
+          <mxGeometry x="160" y="1015" width="760" height="285" as="geometry" />
         </mxCell>
         <mxCell id="T5" value="体育产业转型升级效果三层级协同测度" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=13;fontFamily=Microsoft YaHei;shadow=0;" parent="1" vertex="1">
           <mxGeometry x="255" y="1022" width="440" height="38" as="geometry" />
@@ -329,7 +329,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ETUI" value="&lt;b style=&quot;font-size:14px&quot;&gt;ETUI综合指数&lt;/b&gt;&lt;br&gt;&lt;font color=&quot;#D0E4F8&quot;&gt;转型升级效果量化&lt;/font&gt;&lt;br&gt;&lt;font color=&quot;#B0D0F0&quot; style=&quot;font-size:9px&quot;&gt;1.55 → 94.83&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=12;fontFamily=Microsoft YaHei;shadow=0;" parent="1" vertex="1">
-          <mxGeometry x="695" y="1268" width="165" height="58" as="geometry" />
+          <mxGeometry x="717.5" y="1183" width="165" height="58" as="geometry" />
         </mxCell>
         <mxCell id="EETUI" style="rounded=0;shadow=0;" parent="1" source="ENT" target="ETUI" edge="1">
           <mxGeometry relative="1" as="geometry" />
