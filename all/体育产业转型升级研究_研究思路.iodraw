@@ -17,7 +17,7 @@
           <mxGeometry x="150.88" y="543" width="420" height="97" as="geometry" />
         </mxCell>
         <mxCell id="Ylo9z9FVbj68OZPIBtWt-168" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=0;strokeColor=#000000;fillColor=#FFFFFF;fontSize=13;fontColor=#000000;opacity=90;" parent="1" vertex="1">
-          <mxGeometry x="150" y="420" width="420" height="117" as="geometry" />
+          <mxGeometry x="150" y="420" width="420" height="105" as="geometry" />
         </mxCell>
         <mxCell id="Ylo9z9FVbj68OZPIBtWt-159" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=0;strokeColor=#000000;fillColor=#FFFFFF;fontSize=13;fontColor=#000000;opacity=90;" parent="1" vertex="1">
           <mxGeometry x="150" y="308" width="420" height="109" as="geometry" />
@@ -532,7 +532,7 @@
           <mxGeometry x="70" y="1082" width="80" height="25" as="geometry" />
         </mxCell>
         <mxCell id="j7_mbGs77swPTjLsTBsH-127" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=0;strokeColor=#000000;fillColor=#FFFFFF;fontSize=13;fontColor=#000000;opacity=90;fontFamily=Helvetica;fontStyle=0" parent="1" vertex="1">
-          <mxGeometry x="153" y="1074" width="421" height="230" as="geometry" />
+          <mxGeometry x="153" y="1074" width="421" height="161" as="geometry" />
         </mxCell>
         <mxCell id="j7_mbGs77swPTjLsTBsH-128" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;测度结果发现&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;opacity=90;fontFamily=Helvetica;fontStyle=0;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="186" y="1122" width="111" height="20" as="geometry" />
