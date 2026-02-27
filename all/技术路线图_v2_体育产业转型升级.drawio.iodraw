@@ -323,7 +323,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ENT" value="&lt;b&gt;熵值法综合评价&lt;/b&gt;&lt;br&gt;&lt;font color=&quot;#888888&quot; style=&quot;font-size:10px&quot;&gt;四维度 · 十二指标&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;fontFamily=Microsoft YaHei;shadow=0;" parent="1" vertex="1">
-          <mxGeometry x="705" y="1118" width="145" height="52" as="geometry" />
+          <mxGeometry x="717.5" y="1100" width="145" height="52" as="geometry" />
         </mxCell>
         <mxCell id="EENT" style="rounded=0;shadow=0;" parent="1" source="INT" target="ENT" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -344,7 +344,7 @@
           <mxGeometry x="920" y="1440" width="130" height="22" as="geometry" />
         </mxCell>
         <mxCell id="G6" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1.5;dashed=1;dashPattern=8 4;shadow=0;" parent="1" vertex="1">
-          <mxGeometry x="160" y="1440" width="780" height="430" as="geometry" />
+          <mxGeometry x="160" y="1440" width="760" height="290" as="geometry" />
         </mxCell>
         <mxCell id="T6" value="体育产业转型升级影响因素实证识别" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=13;fontFamily=Microsoft YaHei;shadow=0;" parent="1" vertex="1">
           <mxGeometry x="255" y="1447" width="440" height="38" as="geometry" />
