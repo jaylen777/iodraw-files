@@ -221,13 +221,12 @@
         <mxCell id="Ylo9z9FVbj68OZPIBtWt-79" value="逻辑推理" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fontColor=#333333;strokeColor=none;opacity=60;fillColor=#C4C4C4;" parent="1" vertex="1">
           <mxGeometry x="496.88" y="418" width="74" height="14" as="geometry" />
         </mxCell>
-        <mxCell id="j7_mbGs77swPTjLsTBsH-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" edge="1">
+        <mxCell id="j7_mbGs77swPTjLsTBsH-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="445" y="240" as="sourcePoint" />
+            <mxPoint x="437" y="267" as="sourcePoint" />
             <mxPoint x="399" y="265.0000000000001" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="426" y="240" />
-              <mxPoint x="426" y="265" />
+              <mxPoint x="445" y="265" />
             </Array>
           </mxGeometry>
         </mxCell>
