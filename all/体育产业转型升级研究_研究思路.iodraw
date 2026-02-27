@@ -230,9 +230,6 @@
         <mxCell id="Ylo9z9FVbj68OZPIBtWt-123" value="对象界定" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;opacity=90;fontStyle=1;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="68" y="345" width="80" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Ylo9z9FVbj68OZPIBtWt-125" value="&lt;b style=&quot;color: rgb(51, 51, 51); font-family: &amp;quot;Microsoft YaHei&amp;quot;; font-size: 11px;&quot;&gt;效率测度整合&lt;/b&gt;&lt;br style=&quot;color: rgb(51, 51, 51); font-family: &amp;quot;Microsoft YaHei&amp;quot;; font-size: 11px; font-weight: 400;&quot;&gt;&lt;span style=&quot;color: rgb(51, 51, 51); font-family: &amp;quot;Microsoft YaHei&amp;quot;; font-size: 11px; font-weight: 400;&quot;&gt;静态效率评价&lt;/span&gt;&lt;br style=&quot;color: rgb(51, 51, 51); font-family: &amp;quot;Microsoft YaHei&amp;quot;; font-size: 11px; font-weight: 400;&quot;&gt;&lt;span style=&quot;color: rgb(51, 51, 51); font-family: &amp;quot;Microsoft YaHei&amp;quot;; font-size: 11px; font-weight: 400;&quot;&gt;动态生产率分解&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;opacity=60;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="288.13" y="791" width="133.87" height="47" as="geometry" />
-        </mxCell>
         <mxCell id="Ylo9z9FVbj68OZPIBtWt-151" value="" style="shape=flexArrow;endArrow=classic;html=1;fontSize=13;fontColor=#000000;opacity=80;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="107.66" y="654" as="sourcePoint" />
@@ -488,30 +485,6 @@
         </mxCell>
         <mxCell id="j7_mbGs77swPTjLsTBsH-94" value="&lt;span style=&quot;color: rgb(51, 51, 51); font-family: &amp;quot;Microsoft YaHei&amp;quot;; font-size: 11px;&quot;&gt;Granger因果检验&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="439" y="737" width="110" height="18" as="geometry" />
-        </mxCell>
-        <mxCell id="j7_mbGs77swPTjLsTBsH-98" value="&lt;b style=&quot;color: rgb(51, 51, 51); font-family: &amp;quot;Microsoft YaHei&amp;quot;;&quot;&gt;熵值法综合评价&lt;/b&gt;&lt;br style=&quot;color: rgb(51, 51, 51); font-family: &amp;quot;Microsoft YaHei&amp;quot;; font-weight: 400;&quot;&gt;&lt;font style=&quot;font-family: &amp;quot;Microsoft YaHei&amp;quot;; font-weight: 400; font-size: 10px;&quot; color=&quot;#888888&quot;&gt;四维度 · 十二指标&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;opacity=60;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="288.13" y="850" width="133.87" height="47" as="geometry" />
-        </mxCell>
-        <mxCell id="j7_mbGs77swPTjLsTBsH-99" value="&lt;font face=&quot;Helvetica&quot;&gt;&lt;b style=&quot;font-size: 14px;&quot;&gt;ETUI综合指数&lt;/b&gt;&lt;br style=&quot;font-weight: 400;&quot;&gt;&lt;font style=&quot;font-weight: 400;&quot;&gt;转型升级效果量化&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;opacity=60;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="287.06" y="912" width="133.87" height="47" as="geometry" />
-        </mxCell>
-        <mxCell id="j7_mbGs77swPTjLsTBsH-102" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="357" y="777" as="sourcePoint" />
-            <mxPoint x="357" y="791" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="j7_mbGs77swPTjLsTBsH-103" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="356" y="838" as="sourcePoint" />
-            <mxPoint x="356" y="852" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="j7_mbGs77swPTjLsTBsH-104" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="357" y="898" as="sourcePoint" />
-            <mxPoint x="357" y="912" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="j7_mbGs77swPTjLsTBsH-105" value="&lt;b style=&quot;font-family: &amp;quot;Microsoft YaHei&amp;quot;; font-size: 13px;&quot;&gt;关键影响因素&lt;/b&gt;&lt;br style=&quot;font-family: &amp;quot;Microsoft YaHei&amp;quot;; font-weight: 400;&quot;&gt;&lt;font style=&quot;font-family: &amp;quot;Microsoft YaHei&amp;quot;; font-weight: 400;&quot;&gt;关联强度与作用差异&lt;/font&gt;&lt;br style=&quot;font-family: &amp;quot;Microsoft YaHei&amp;quot;; font-weight: 400;&quot;&gt;&lt;font style=&quot;font-family: &amp;quot;Microsoft YaHei&amp;quot;; font-weight: 400; font-size: 9px;&quot;&gt;维度异质性发现&lt;/font&gt;&lt;font face=&quot;Helvetica&quot;&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;opacity=60;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="293.06" y="1108" width="133.87" height="47" as="geometry" />
