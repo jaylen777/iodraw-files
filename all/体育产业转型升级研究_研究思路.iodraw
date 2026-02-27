@@ -595,7 +595,7 @@
         <mxCell id="LcBwGFeKhkCtMw9NLm-D-1" value="实证分析" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fontColor=#333333;strokeColor=none;opacity=70;fillColor=#C7C7C7;" vertex="1" parent="1">
           <mxGeometry x="498" y="796" width="74" height="14" as="geometry" />
         </mxCell>
-        <mxCell id="LcBwGFeKhkCtMw9NLm-D-2" value="逻辑分析" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fontColor=#333333;strokeColor=none;opacity=60;fillColor=#C4C4C4;" vertex="1" parent="1">
+        <mxCell id="LcBwGFeKhkCtMw9NLm-D-2" value="逻辑推理" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fontColor=#333333;strokeColor=none;opacity=60;fillColor=#C4C4C4;" vertex="1" parent="1">
           <mxGeometry x="498" y="976" width="74" height="14" as="geometry" />
         </mxCell>
       </root>
