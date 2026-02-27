@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="L1" value="理论梳理" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=14;fontFamily=Microsoft YaHei;shadow=0;" parent="1" vertex="1">
-          <mxGeometry x="30" y="68" width="84" height="40" as="geometry" />
+          <mxGeometry x="31" y="89" width="84" height="40" as="geometry" />
         </mxCell>
         <mxCell id="A1" value="&lt;i&gt;理论综述&lt;/i&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;fontFamily=Microsoft YaHei;shadow=0;" parent="1" vertex="1">
           <mxGeometry x="950" y="45" width="100" height="22" as="geometry" />
