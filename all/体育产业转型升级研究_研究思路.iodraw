@@ -487,31 +487,31 @@
           <mxGeometry x="439" y="737" width="110" height="18" as="geometry" />
         </mxCell>
         <mxCell id="j7_mbGs77swPTjLsTBsH-105" value="&lt;b style=&quot;font-family: &amp;quot;Microsoft YaHei&amp;quot;; font-size: 13px;&quot;&gt;关键影响因素&lt;/b&gt;&lt;br style=&quot;font-family: &amp;quot;Microsoft YaHei&amp;quot;; font-weight: 400;&quot;&gt;&lt;font style=&quot;font-family: &amp;quot;Microsoft YaHei&amp;quot;; font-weight: 400;&quot;&gt;关联强度与作用差异&lt;/font&gt;&lt;br&gt;&lt;font face=&quot;Helvetica&quot;&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;opacity=60;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="297.06" y="926" width="133.87" height="47" as="geometry" />
+          <mxGeometry x="299.31" y="876" width="133.87" height="47" as="geometry" />
         </mxCell>
         <mxCell id="j7_mbGs77swPTjLsTBsH-117" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;政策制度&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;opacity=60;fontFamily=Helvetica;fontStyle=0;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="169.5" y="981" width="61.5" height="15" as="geometry" />
+          <mxGeometry x="171.75" y="931" width="61.5" height="15" as="geometry" />
         </mxCell>
         <mxCell id="j7_mbGs77swPTjLsTBsH-118" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;要素投入&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;opacity=60;fontFamily=Helvetica;fontStyle=0;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="256" y="981" width="60" height="15" as="geometry" />
+          <mxGeometry x="258.25" y="931" width="60" height="15" as="geometry" />
         </mxCell>
         <mxCell id="j7_mbGs77swPTjLsTBsH-119" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;技术创新&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;opacity=60;fontFamily=Helvetica;fontStyle=0;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="335.5" y="981" width="60" height="15" as="geometry" />
+          <mxGeometry x="337.75" y="931" width="60" height="15" as="geometry" />
         </mxCell>
         <mxCell id="j7_mbGs77swPTjLsTBsH-120" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;消费需求&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;opacity=60;fontFamily=Helvetica;fontStyle=0;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="420" y="981" width="64" height="15" as="geometry" />
+          <mxGeometry x="422.25" y="931" width="64" height="15" as="geometry" />
         </mxCell>
         <mxCell id="j7_mbGs77swPTjLsTBsH-121" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;基础设施&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;opacity=60;fontFamily=Helvetica;fontStyle=0;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="496" y="981" width="64" height="15" as="geometry" />
+          <mxGeometry x="498.25" y="931" width="64" height="15" as="geometry" />
         </mxCell>
         <mxCell id="j7_mbGs77swPTjLsTBsH-122" value="&lt;font face=&quot;Helvetica&quot;&gt;&lt;b style=&quot;&quot;&gt;因变量&lt;/b&gt;&lt;br style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;ETUI综合指数&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;opacity=60;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="296.07" y="1015" width="133.87" height="47" as="geometry" />
+          <mxGeometry x="298.32" y="965" width="133.87" height="47" as="geometry" />
         </mxCell>
         <mxCell id="j7_mbGs77swPTjLsTBsH-123" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;dashed=1;fontSize=13;opacity=50;fillColor=none;glass=0;sketch=0;" parent="1" vertex="1">
-          <mxGeometry x="160.5" y="977" width="408.75" height="31" as="geometry" />
+          <mxGeometry x="162.75" y="927" width="408.75" height="31" as="geometry" />
         </mxCell>
         <mxCell id="j7_mbGs77swPTjLsTBsH-124" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;dashed=1;fontSize=13;opacity=50;fillColor=none;glass=0;sketch=0;" parent="1" vertex="1">
-          <mxGeometry x="160.13" y="802" width="408.75" height="115.5" as="geometry" />
+          <mxGeometry x="160.13" y="802" width="408.75" height="74" as="geometry" />
         </mxCell>
         <mxCell id="j7_mbGs77swPTjLsTBsH-125" value="" style="shape=flexArrow;endArrow=classic;html=1;fontSize=13;fontColor=#000000;opacity=80;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
