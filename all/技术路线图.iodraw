@@ -140,22 +140,22 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="46" value="&lt;b&gt;郑州市武术培训机构竞争力实证评价&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#333333;strokeWidth=2.5;fillColor=#ffffff;verticalAlign=top;fontFamily=Microsoft YaHei,PingFang SC,SimHei,Arial;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="380" y="1060" width="440" height="113" as="geometry" />
+          <mxGeometry x="380" y="1025" width="440" height="113" as="geometry" />
         </mxCell>
         <mxCell id="47" value="" style="edgeStyle=orthogonalEdgeStyle;strokeColor=#333333;strokeWidth=2.5;endArrow=block;endFill=1;exitX=0.5;exitY=1;exitPerimeter=0;entryX=0.5;entryY=0;entryPerimeter=0;fontFamily=Microsoft YaHei,PingFang SC,SimHei,Arial;" parent="1" source="38" target="46" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="48" value="&lt;b&gt;权重分析&lt;/b&gt;&lt;hr style=&#39;margin:3px 0;border-color:#333;&#39;/&gt;指标权重计算&lt;br/&gt;权重结构分析" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#333333;strokeWidth=2;fillColor=#ffffff;dashed=1;dashPattern=8 4;verticalAlign=top;fontFamily=Microsoft YaHei,PingFang SC,SimHei,Arial;fontSize=12;" parent="1" vertex="1">
-          <mxGeometry x="400" y="1088" width="125" height="75" as="geometry" />
+          <mxGeometry x="400" y="1053" width="125" height="75" as="geometry" />
         </mxCell>
         <mxCell id="49" value="&lt;b&gt;机构评价&lt;/b&gt;&lt;hr style=&#39;margin:3px 0;border-color:#333;&#39;/&gt;典型机构&lt;br/&gt;竞争力综合评价" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#333333;strokeWidth=2;fillColor=#ffffff;dashed=1;dashPattern=8 4;verticalAlign=top;fontFamily=Microsoft YaHei,PingFang SC,SimHei,Arial;fontSize=12;" parent="1" vertex="1">
-          <mxGeometry x="537" y="1088" width="125" height="75" as="geometry" />
+          <mxGeometry x="537" y="1053" width="125" height="75" as="geometry" />
         </mxCell>
         <mxCell id="50" value="&lt;b&gt;对比分析&lt;/b&gt;&lt;hr style=&#39;margin:3px 0;border-color:#333;&#39;/&gt;6家机构&lt;br/&gt;定性对比&lt;br/&gt;差异分析" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#333333;strokeWidth=2;fillColor=#ffffff;dashed=1;dashPattern=8 4;verticalAlign=top;fontFamily=Microsoft YaHei,PingFang SC,SimHei,Arial;fontSize=12;" parent="1" vertex="1">
-          <mxGeometry x="675" y="1088" width="125" height="75" as="geometry" />
+          <mxGeometry x="675" y="1053" width="125" height="75" as="geometry" />
         </mxCell>
         <mxCell id="51" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;实地调研法&lt;hr style=&quot;margin:4px 0;border-color:#333;&quot;&gt;数理统计法&lt;hr style=&quot;margin:4px 0;border-color:#333;&quot;&gt;案例分析法" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#333333;strokeWidth=2;fillColor=#ffffff;dashed=1;dashPattern=8 4;verticalAlign=top;fontFamily=Microsoft YaHei,PingFang SC,SimHei,Arial;fontSize=12;" parent="1" vertex="1">
-          <mxGeometry x="865" y="1054.88" width="280" height="96.25" as="geometry" />
+          <mxGeometry x="865" y="1031.88" width="280" height="96.25" as="geometry" />
         </mxCell>
         <mxCell id="52" value="" style="edgeStyle=elbowEdgeStyle;strokeColor=#666666;strokeWidth=2;endArrow=open;endFill=0;exitX=1;exitY=0.5;exitPerimeter=0;entryX=0;entryY=0.5;entryPerimeter=0;fontFamily=Microsoft YaHei,PingFang SC,SimHei,Arial;" parent="1" source="46" target="51" edge="1">
           <mxGeometry relative="1" as="geometry" />
