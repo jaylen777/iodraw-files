@@ -113,7 +113,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="38" value="&lt;b&gt;武术培训机构竞争力评价体系设计&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#333333;strokeWidth=2.5;fillColor=#ffffff;verticalAlign=top;fontFamily=Microsoft YaHei,PingFang SC,SimHei,Arial;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="380" y="867" width="440" height="240" as="geometry" />
+          <mxGeometry x="380" y="890" width="440" height="180" as="geometry" />
         </mxCell>
         <mxCell id="39" value="" style="edgeStyle=orthogonalEdgeStyle;strokeColor=#333333;strokeWidth=2.5;endArrow=block;endFill=1;exitX=0.5;exitY=1;exitPerimeter=0;entryX=0.5;entryY=0;entryPerimeter=0;fontFamily=Microsoft YaHei,PingFang SC,SimHei,Arial;" parent="1" source="30" target="38" edge="1">
           <mxGeometry relative="1" as="geometry" />
