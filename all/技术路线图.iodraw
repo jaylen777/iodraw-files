@@ -55,7 +55,7 @@
         <mxCell id="18" value="&lt;b&gt;理论基础&lt;/b&gt;&lt;hr style=&#39;margin:3px 0;border-color:#333;&#39;/&gt;企业竞争力理论&lt;br/&gt;顾客价值理论&lt;br/&gt;PEST模型&lt;br/&gt;波特五力模型&lt;br/&gt;价值链理论" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#333333;strokeWidth=2;fillColor=#ffffff;dashed=1;dashPattern=8 4;verticalAlign=top;fontFamily=Microsoft YaHei,PingFang SC,SimHei,Arial;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="620" y="350" width="180" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="19" value="文献资料法&lt;hr style=&#39;margin:4px 0;border-color:#333;&#39;/&gt;比较分析法&lt;hr style=&#39;margin:4px 0;border-color:#333;&#39;/&gt;理论分析法" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#333333;strokeWidth=2;fillColor=#ffffff;dashed=1;dashPattern=8 4;verticalAlign=top;fontFamily=Microsoft YaHei,PingFang SC,SimHei,Arial;fontSize=12;" parent="1" vertex="1">
+        <mxCell id="19" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;文献资料法&lt;hr style=&quot;margin:4px 0;border-color:#333;&quot;&gt;比较分析法&lt;hr style=&quot;margin:4px 0;border-color:#333;&quot;&gt;理论分析法" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#333333;strokeWidth=2;fillColor=#ffffff;dashed=1;dashPattern=8 4;verticalAlign=top;fontFamily=Microsoft YaHei,PingFang SC,SimHei,Arial;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="870" y="360" width="280" height="120" as="geometry" />
         </mxCell>
         <mxCell id="20" value="" style="edgeStyle=elbowEdgeStyle;strokeColor=#666666;strokeWidth=2;endArrow=open;endFill=0;exitX=1;exitY=0.5;exitPerimeter=0;entryX=0;entryY=0.5;entryPerimeter=0;fontFamily=Microsoft YaHei,PingFang SC,SimHei,Arial;" parent="1" source="15" target="19" edge="1">
