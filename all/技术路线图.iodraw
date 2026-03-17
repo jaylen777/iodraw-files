@@ -23,7 +23,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="8" value="&lt;b&gt;研究&lt;br/&gt;起点&lt;/b&gt;" style="rhombus;whiteSpace=wrap;html=1;strokeColor=#333333;strokeWidth=2.5;fillColor=#ffffff;fontFamily=Microsoft YaHei,PingFang SC,SimHei,Arial;fontSize=14;fontStyle=1;" parent="1" vertex="1">
-          <mxGeometry x="130" y="191" width="120" height="80" as="geometry" />
+          <mxGeometry x="130" y="266" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="9" value="" style="edgeStyle=orthogonalEdgeStyle;strokeColor=#333333;strokeWidth=2.5;endArrow=block;endFill=1;exitX=0.5;exitY=1;exitPerimeter=0;entryX=0.5;entryY=0;entryPerimeter=0;fontFamily=Microsoft YaHei,PingFang SC,SimHei,Arial;" parent="1" source="3" target="8" edge="1">
           <mxGeometry relative="1" as="geometry" />
