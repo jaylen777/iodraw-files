@@ -8,13 +8,13 @@
           <mxGeometry x="400" y="8" width="400" height="42" as="geometry" />
         </mxCell>
         <mxCell id="3" value="&lt;b&gt;研究过程&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#333333;strokeWidth=2.5;fillColor=#ffffff;fontFamily=Microsoft YaHei,PingFang SC,SimHei,Arial;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="50" y="70" width="280" height="50" as="geometry" />
+          <mxGeometry x="50" y="111" width="280" height="50" as="geometry" />
         </mxCell>
         <mxCell id="4" value="&lt;b&gt;研究内容&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#333333;strokeWidth=2.5;fillColor=#ffffff;fontFamily=Microsoft YaHei,PingFang SC,SimHei,Arial;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="460" y="70" width="280" height="50" as="geometry" />
+          <mxGeometry x="460" y="111" width="280" height="50" as="geometry" />
         </mxCell>
         <mxCell id="5" value="&lt;b&gt;研究方法&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#333333;strokeWidth=2.5;fillColor=#ffffff;fontFamily=Microsoft YaHei,PingFang SC,SimHei,Arial;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="870" y="70" width="280" height="50" as="geometry" />
+          <mxGeometry x="870" y="111" width="280" height="50" as="geometry" />
         </mxCell>
         <mxCell id="6" value="" style="edgeStyle=orthogonalEdgeStyle;strokeColor=#333333;strokeWidth=2.5;endArrow=block;endFill=1;exitX=1;exitY=0.5;exitPerimeter=0;entryX=0;entryY=0.5;entryPerimeter=0;fontFamily=Microsoft YaHei,PingFang SC,SimHei,Arial;" parent="1" source="3" target="4" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -23,13 +23,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="8" value="&lt;b&gt;研究&lt;br/&gt;起点&lt;/b&gt;" style="rhombus;whiteSpace=wrap;html=1;strokeColor=#333333;strokeWidth=2.5;fillColor=#ffffff;fontFamily=Microsoft YaHei,PingFang SC,SimHei,Arial;fontSize=14;fontStyle=1;" parent="1" vertex="1">
-          <mxGeometry x="130" y="200" width="120" height="80" as="geometry" />
+          <mxGeometry x="130" y="191" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="9" value="" style="edgeStyle=orthogonalEdgeStyle;strokeColor=#333333;strokeWidth=2.5;endArrow=block;endFill=1;exitX=0.5;exitY=1;exitPerimeter=0;entryX=0.5;entryY=0;entryPerimeter=0;fontFamily=Microsoft YaHei,PingFang SC,SimHei,Arial;" parent="1" source="3" target="8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="10" value="&lt;b&gt;郑州市武术培训机构竞争力研究&lt;/b&gt;&lt;br/&gt;(研究背景、目的与意义)" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#333333;strokeWidth=2.5;fillColor=#ffffff;fontFamily=Microsoft YaHei,PingFang SC,SimHei,Arial;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="380" y="160" width="440" height="60" as="geometry" />
+          <mxGeometry x="380" y="201" width="440" height="60" as="geometry" />
         </mxCell>
         <mxCell id="11" value="" style="edgeStyle=orthogonalEdgeStyle;strokeColor=#333333;strokeWidth=2.5;endArrow=block;endFill=1;exitX=0.5;exitY=1;exitPerimeter=0;entryX=0.5;entryY=0;entryPerimeter=0;fontFamily=Microsoft YaHei,PingFang SC,SimHei,Arial;" parent="1" source="4" target="10" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -38,7 +38,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="13" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;归纳总结法&lt;/span&gt;&lt;/div&gt;&lt;hr style=&quot;margin: 4px 0px; border-color: rgb(51, 51, 51);&quot;&gt;逻辑分析法&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#333333;strokeWidth=2;fillColor=#ffffff;dashed=1;dashPattern=8 4;verticalAlign=top;fontFamily=Microsoft YaHei,PingFang SC,SimHei,Arial;fontSize=12;" parent="1" vertex="1">
-          <mxGeometry x="870" y="160" width="270" height="70" as="geometry" />
+          <mxGeometry x="870" y="196" width="270" height="70" as="geometry" />
         </mxCell>
         <mxCell id="14" value="" style="edgeStyle=elbowEdgeStyle;strokeColor=#666666;strokeWidth=2;endArrow=open;endFill=0;exitX=1;exitY=0.5;exitPerimeter=0;entryX=0;entryY=0.5;entryPerimeter=0;fontFamily=Microsoft YaHei,PingFang SC,SimHei,Arial;" parent="1" source="10" target="13" edge="1">
           <mxGeometry relative="1" as="geometry" />
