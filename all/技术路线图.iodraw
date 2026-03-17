@@ -37,7 +37,7 @@
         <mxCell id="12" value="" style="edgeStyle=elbowEdgeStyle;strokeColor=#666666;strokeWidth=2;endArrow=open;endFill=0;exitX=1;exitY=0.5;exitPerimeter=0;entryX=0;entryY=0.5;entryPerimeter=0;fontFamily=Microsoft YaHei,PingFang SC,SimHei,Arial;" parent="1" source="8" target="10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="13" value="实践背景&lt;hr style=&#39;margin:4px 0;border-color:#333;&#39;/&gt;理论背景&lt;hr style=&#39;margin:4px 0;border-color:#333;&#39;/&gt;研究价值" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#333333;strokeWidth=2;fillColor=#ffffff;dashed=1;dashPattern=8 4;verticalAlign=top;fontFamily=Microsoft YaHei,PingFang SC,SimHei,Arial;fontSize=12;" parent="1" vertex="1">
+        <mxCell id="13" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;归纳总结法&lt;/span&gt;&lt;/div&gt;&lt;hr style=&quot;margin: 4px 0px; border-color: rgb(51, 51, 51);&quot;&gt;逻辑分析法&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#333333;strokeWidth=2;fillColor=#ffffff;dashed=1;dashPattern=8 4;verticalAlign=top;fontFamily=Microsoft YaHei,PingFang SC,SimHei,Arial;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="870" y="160" width="270" height="70" as="geometry" />
         </mxCell>
         <mxCell id="14" value="" style="edgeStyle=elbowEdgeStyle;strokeColor=#666666;strokeWidth=2;endArrow=open;endFill=0;exitX=1;exitY=0.5;exitPerimeter=0;entryX=0;entryY=0.5;entryPerimeter=0;fontFamily=Microsoft YaHei,PingFang SC,SimHei,Arial;" parent="1" source="10" target="13" edge="1">
