@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36 Edg/146.0.0.0" version="24.7.17">
   <diagram id="9Ea93cwi0fAyjyHPbvqk" name="第 1 页">
-    <mxGraphModel dx="1287" dy="840" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2339" math="0" shadow="0">
+    <mxGraphModel dx="1930" dy="1260" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2339" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -176,10 +176,10 @@
           <mxGeometry x="400" y="1635" width="125" height="105" as="geometry" />
         </mxCell>
         <mxCell id="59" value="&lt;b&gt;提升建议&lt;/b&gt;&lt;hr style=&#39;margin:3px 0;border-color:#333;&#39;/&gt;策略建议&lt;br/&gt;实施路径&lt;br/&gt;保障措施" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#333333;strokeWidth=2;fillColor=#ffffff;dashed=1;dashPattern=8 4;verticalAlign=top;fontFamily=Microsoft YaHei,PingFang SC,SimHei,Arial;fontSize=12;" parent="1" vertex="1">
-          <mxGeometry x="537" y="1635" width="125" height="105" as="geometry" />
+          <mxGeometry x="537" y="1635" width="125" height="75" as="geometry" />
         </mxCell>
         <mxCell id="60" value="&lt;b&gt;研究展望&lt;/b&gt;&lt;hr style=&#39;margin:3px 0;border-color:#333;&#39;/&gt;研究不足&lt;br/&gt;未来方向" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#333333;strokeWidth=2;fillColor=#ffffff;dashed=1;dashPattern=8 4;verticalAlign=top;fontFamily=Microsoft YaHei,PingFang SC,SimHei,Arial;fontSize=12;" parent="1" vertex="1">
-          <mxGeometry x="675" y="1635" width="125" height="105" as="geometry" />
+          <mxGeometry x="675" y="1635" width="125" height="65" as="geometry" />
         </mxCell>
         <mxCell id="61" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;归纳总结法&lt;hr style=&quot;margin:4px 0;border-color:#333;&quot;&gt;逻辑分析法" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#333333;strokeWidth=2;fillColor=#ffffff;dashed=1;dashPattern=8 4;verticalAlign=top;fontFamily=Microsoft YaHei,PingFang SC,SimHei,Arial;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="870" y="1625" width="280" height="90" as="geometry" />
