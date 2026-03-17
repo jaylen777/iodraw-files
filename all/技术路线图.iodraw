@@ -22,6 +22,9 @@
         <mxCell id="7" value="" style="edgeStyle=orthogonalEdgeStyle;strokeColor=#333333;strokeWidth=2.5;endArrow=block;endFill=1;exitX=1;exitY=0.5;exitPerimeter=0;entryX=0;entryY=0.5;entryPerimeter=0;fontFamily=Microsoft YaHei,PingFang SC,SimHei,Arial;" parent="1" source="4" target="5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="i6ExG0RNLxs3f_HtLUwp-63" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=0;strokeColor=#3B3B3B;" edge="1" parent="1" source="8" target="15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="8" value="&lt;b&gt;研究&lt;br/&gt;起点&lt;/b&gt;" style="rhombus;whiteSpace=wrap;html=1;strokeColor=#333333;strokeWidth=2.5;fillColor=#ffffff;fontFamily=Microsoft YaHei,PingFang SC,SimHei,Arial;fontSize=14;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="130" y="266" width="120" height="80" as="geometry" />
         </mxCell>
