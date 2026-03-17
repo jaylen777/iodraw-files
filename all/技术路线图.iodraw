@@ -130,8 +130,8 @@
         <mxCell id="43" value="&lt;b&gt;评价方法&lt;/b&gt;&lt;hr style=&#39;margin:3px 0;border-color:#333;&#39;/&gt;模糊集合&lt;br/&gt;隶属度&lt;br/&gt;评价矩阵&lt;br/&gt;模糊综合评价" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#333333;strokeWidth=2;fillColor=#ffffff;dashed=1;dashPattern=8 4;verticalAlign=top;fontFamily=Microsoft YaHei,PingFang SC,SimHei,Arial;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="675" y="922" width="125" height="128" as="geometry" />
         </mxCell>
-        <mxCell id="44" value="问卷调查法&lt;hr style=&#39;margin:4px 0;border-color:#333;&#39;/&gt;德尔菲法&lt;hr style=&#39;margin:4px 0;border-color:#333;&#39;/&gt;层次分析法(AHP)&lt;hr style=&#39;margin:4px 0;border-color:#333;&#39;/&gt;模糊综合评价法" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#333333;strokeWidth=2;fillColor=#ffffff;dashed=1;dashPattern=8 4;verticalAlign=top;fontFamily=Microsoft YaHei,PingFang SC,SimHei,Arial;fontSize=12;" parent="1" vertex="1">
-          <mxGeometry x="870" y="902" width="280" height="160" as="geometry" />
+        <mxCell id="44" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;问卷调查法&lt;hr style=&quot;margin:4px 0;border-color:#333;&quot;&gt;德尔菲法&lt;hr style=&quot;margin:4px 0;border-color:#333;&quot;&gt;层次分析法(AHP)&lt;hr style=&quot;margin:4px 0;border-color:#333;&quot;&gt;模糊综合评价法" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#333333;strokeWidth=2;fillColor=#ffffff;dashed=1;dashPattern=8 4;verticalAlign=top;fontFamily=Microsoft YaHei,PingFang SC,SimHei,Arial;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="870" y="924" width="280" height="110" as="geometry" />
         </mxCell>
         <mxCell id="45" value="" style="edgeStyle=elbowEdgeStyle;strokeColor=#666666;strokeWidth=2;endArrow=open;endFill=0;exitX=1;exitY=0.5;exitPerimeter=0;entryX=0;entryY=0.5;entryPerimeter=0;fontFamily=Microsoft YaHei,PingFang SC,SimHei,Arial;" parent="1" source="38" target="44" edge="1">
           <mxGeometry relative="1" as="geometry" />
