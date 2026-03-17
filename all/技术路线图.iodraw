@@ -109,7 +109,7 @@
         <mxCell id="35" value="" style="edgeStyle=elbowEdgeStyle;strokeColor=#666666;strokeWidth=2;endArrow=open;endFill=0;exitX=1;exitY=0.5;exitPerimeter=0;entryX=0;entryY=0.5;entryPerimeter=0;fontFamily=Microsoft YaHei,PingFang SC,SimHei,Arial;" parent="1" source="30" target="34" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="i6ExG0RNLxs3f_HtLUwp-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="36" target="30">
+        <mxCell id="i6ExG0RNLxs3f_HtLUwp-64" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;strokeColor=#666666;curved=0;" edge="1" parent="1" source="36" target="30">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="36" value="&lt;b&gt;评价&lt;br/&gt;体系&lt;/b&gt;" style="rhombus;whiteSpace=wrap;html=1;strokeColor=#333333;strokeWidth=2.5;fillColor=#ffffff;fontFamily=Microsoft YaHei,PingFang SC,SimHei,Arial;fontSize=14;fontStyle=1;" parent="1" vertex="1">
