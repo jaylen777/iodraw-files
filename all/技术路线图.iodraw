@@ -14,7 +14,7 @@
           <mxGeometry x="460" y="111" width="280" height="50" as="geometry" />
         </mxCell>
         <mxCell id="5" value="&lt;b&gt;研究方法&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#333333;strokeWidth=2.5;fillColor=#ffffff;fontFamily=Microsoft YaHei,PingFang SC,SimHei,Arial;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="870" y="111" width="280" height="50" as="geometry" />
+          <mxGeometry x="870" y="111" width="200" height="50" as="geometry" />
         </mxCell>
         <mxCell id="6" value="" style="edgeStyle=orthogonalEdgeStyle;strokeColor=#333333;strokeWidth=2.5;endArrow=block;endFill=1;exitX=1;exitY=0.5;exitPerimeter=0;entryX=0;entryY=0.5;entryPerimeter=0;fontFamily=Microsoft YaHei,PingFang SC,SimHei,Arial;" parent="1" source="3" target="4" edge="1">
           <mxGeometry relative="1" as="geometry" />
